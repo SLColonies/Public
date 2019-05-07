@@ -10,13 +10,13 @@ description:        Rule your own Empire - Live your own Life
 lang:               en
 
 # Site subpath, e.g. /blog
-baseurl:            "http://docs.slcolonies.com"
+baseurl:            "/"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                "http//docs.slcolonies.com"
+url:                "http://docs.slcolonies.com"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
 logo:               
