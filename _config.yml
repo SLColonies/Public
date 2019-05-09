@@ -19,7 +19,7 @@ permalink:          /:title/
 url:                "http://slcolonies.com"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
-logo:   logo.png            
+logo:               
 
 navbar:
     sticky:         true
