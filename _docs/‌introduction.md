@@ -5,7 +5,7 @@ author: Temujin
 tags: [general]
 ---
 
-{% include image.html img="girl.jpg" alt="Alt for image" caption="Girl on a rock" %}
+{% include image.html img="logo.jpg" alt="SL Colonies Logo" caption="" %}
 # SL Colonies
 ### Rule your own Empire - Lead your own Life
 
