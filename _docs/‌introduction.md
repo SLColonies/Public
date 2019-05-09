@@ -1,13 +1,19 @@
 ---
-title: Introduction
-subtitle: An Introduction to the SLColonies RPG Meter
-author: temujin
-tags: [general]
+title: Theme installation
+subtitle: This document covers the setup and options of theme feature described in the doc title
+author: sara
+tags: [setup]
 ---
 
-{% include image.html img="logo.jpg" alt="SL Colonies Logo" caption="" %}
+Install the dependencies with [Bundler](http://bundler.io/):
 
-Testing 1...2..3...4
+```bash
+bundle install
+```
 
+Run the following to generate your site:
+```bash
+bundle exec jekyll serve
+```
 
-
+You can find more on [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
