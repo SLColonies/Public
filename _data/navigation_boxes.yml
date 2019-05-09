@@ -1,9 +1,9 @@
 # Boxes include navigation
 
-- title: Getting Started
-  desc: Get started fast with installation and theme setup instructions
+- title: Introduction
+  desc: Introduction to the SL Colonies System
   icon: cog
-  doc: installation
+  doc: home
 
 - title: Theme Features
   desc: Lean about all the theme options, features and how to use them

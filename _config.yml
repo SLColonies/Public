@@ -19,7 +19,7 @@ permalink:          /:title/
 url:                "http://slcolonies.com"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
-logo:               
+logo:   logo.png            
 
 navbar:
     sticky:         true
@@ -32,11 +32,11 @@ author:
     avatar:         temujin.jpg
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
-#authors:
-#    john:
-#      name:         John Brown
-#      title:        Support     
-#      avatar:       avatar-john.png
+authors:
+    temujin:
+      name:         Temujin Calidius
+      title:        The Creator     
+      avatar:       temujin.jpg
 #    evan:
 #      name:         Evan Wells
 #      title:        Support    
