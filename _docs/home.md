@@ -1,19 +1,13 @@
 ---
 title: Introduction
 subtitle: Introduction to the SL Colonies System
-author: Temujin
+author: temujinemujin
 tags: [introduction]
 ---
 
-Install the dependencies with [Bundler](http://bundler.io/):
+{% include image.html img="logo.jpg" alt="SLColonies RPG System" caption="" %}
 
-```bash
-bundle install
-```
+# Test
+### Test 2
 
-Run the following to generate your site:
-```bash
-bundle exec jekyll serve
-```
-
-You can find more on [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+The Meter...1...2..3..
