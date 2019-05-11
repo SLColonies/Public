@@ -1,6 +1,7 @@
 - title: Home
   docs:
   - home
-  - game
+ - title: The Game
+  docs:
   - stats
   
