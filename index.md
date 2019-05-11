@@ -2,7 +2,7 @@
 layout: page
 width: expand
 hero:
-    title: SL Colonies
+    title: 
     subtitle: Rule your own Empire - Lead your own Life!
     image: clearlogo.png
     search: true
