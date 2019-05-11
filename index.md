@@ -4,7 +4,7 @@ width: expand
 hero:
     title: SL Colonies
     subtitle: Rule your own Empire - Lead your own Life!
-    image: logo.png
+    image: clearlogo.png
     search: true
 ---
 
