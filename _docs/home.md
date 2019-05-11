@@ -5,8 +5,6 @@ author: temujin
 tags: [introduction]
 ---
 
-{% include image.html img="logo.png" alt="SLColonies RPG System" caption="" %}
-
 SL Colonies was conceived from various ideas over years of research and testing of many games and systems from within Second Life and outside. 
 
 I have enjoyed Second Life systems such as DG, G&S & DFS for many years. Even played around with Life2, Unity and combat systems like GM, GCS, zCS, DCS. I know right? They all sounds the exact same!
