@@ -1,12 +1,12 @@
 ---
 layout: page
 width: xsmall
-title: Got Any Questions
+title: Contact Us
 permalink: /contact/
 ---
 
-##### Morbi varius in accumsan blandit, elit ligula velit, luctus mattis ante nulla nulla.
+##### Contact SL Colonies & Temujin Calidius
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+You can contact Temujin in SecondLife via IM (username: attila.katana) - or you can contact Temujin & SL Colonies by filling the form below.
 
-{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" subject="true" %}
+{% include formspree.html email="temujincalidius@protonmail.com" redirect="/thanks/" name="true" subject="true" %}
