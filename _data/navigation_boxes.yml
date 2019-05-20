@@ -2,13 +2,13 @@
 
 - title: Introduction
   desc: Introduction to the SL Colonies System
-  icon: cog
+  icon: home
   doc: home
 
-- title: Theme Features
-  desc: Lean about all the theme options, features and how to use them
-  icon: settings
-  doc: hero
+- title: Join SLColonies
+  desc: Wanting to use SLColonies for your game?
+  icon: info
+  doc: join
 
 - title: Customization
   desc: Get help or tailor the theme to your specific requirements
