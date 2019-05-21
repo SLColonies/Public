@@ -2,12 +2,12 @@
 
 - title: Introduction
   desc: Introduction to the SL Colonies System
-  icon: home
+  icon: info
   doc: home
 
 - title: Join SLColonies
   desc: Wanting to use SLColonies for your game?
-  icon: info
+  icon: home
   doc: join
 
 - title: Customization
