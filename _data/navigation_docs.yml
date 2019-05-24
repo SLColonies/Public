@@ -4,5 +4,9 @@
 - title: The Game
   docs:
   - stats
+  - classes
+  - resources
+  - crafting
+- title: Other
+  docs:
   - join
-  

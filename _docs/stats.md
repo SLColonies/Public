@@ -1,7 +1,7 @@
 ---
 title: Meter Stats
 author: temujin
-tags: [introduction]
+tags: [features]
 ---
 * TOC
 {:toc}
@@ -10,7 +10,7 @@ The HUD in SL Colonies is split up in various stats which are survival based and
 
 The meter consists of a HUD and the meter which is worn on your avatar. The stats are split up into 7 different values which you need to keep high or low, depending on their effect.
 
-Some stats will start to effect other stats when they hit a critital limit, which will see your character limited in certain abilities.
+Some stats will start to effect other stats when they hit a critical limit, which will see your character limited in certain abilities.
 
 Most stats will regenerate or degenerate over time and require some input on your part to keep high or low. 
 
@@ -45,9 +45,9 @@ Your energy points will automatically regenerate at a steady pace if they have a
 You are able to regenerate energy using other means, such as sitting down on chairs or drinking energy based drinks, such as coffee's. Certain potions will also boost your energy, giving you an extra edge in combat.
 
 ## Secondary Stats
-The stats below work differently to Health & Energy. These stats all start at 0 and work their way up to 100%. At 100%, all these stats will effect the two bases stats of Health & Energy as a result. These are considered long-term stats and require you to roleplay, feed, drink, rest, sleep and visit a healer in order for your character to survive in this world. 
+The stats below work differently to Health & Energy. These stats all start at 0 and work their way up to 100%. At 100%, all these stats will effect the two base stats of Health & Energy as a result. These are considered long-term stats and require you to roleplay, feed, drink, rest, sleep and visit a healer in order for your character to survive in this world. 
 
-It is in your best interested to keep these stats low. Think of these stats as your characters overall health. For those players that do not enjoy combat, these secondary stats are the ones you will focus on the most for roleplaying purposes and for interaction in the world.
+It is in your best interest to keep these stats low. Think of these stats as your characters overall health. For those players that do not enjoy combat, these secondary stats are the ones you will focus on the most for roleplaying purposes and for interaction in the world.
 
 These stats are not displayed in the HUD, they are displayed as a number in the floating meter stats above your character's head.
 
@@ -90,14 +90,14 @@ To stop bleeding, you will require to visit a healer. You can wear bandages and 
 ### Sickness (s)
 You can get sick via numerous ways in SL Colonies. Poison traps, poison arrows and coated blades. As well as poisoned foods and drinks.
 
-Sickness will always remain at 0% unless you gain a sickness by being poisoned. If you are poisoned, your bar will decrease by 1 point every 5 minutes until it hits 0 (8 hours). Once you hit 0, your health bar will begin to drain by 1 point every 5 minutes (8 hours). This gives you 16 hours of active play-time without curing a sickness. 
+Sickness will always remain at 0% unless you gain a sickness by being poisoned. If you are poisoned, your bar will increase by 1 point every 5 minutes until it hits 100 (8 hours). Once you hit 100% sickness, your health bar will begin to drain by 1 point every 5 minutes (8 hours). This gives you 16 hours of active play-time without curing a sickness. 
 
 Different poisons can effect your sickness bar in different ways. Such as a slow poison, or a fast poison or even instant poisons depending on their potency and rarity. Some poisons used by Assassins can even kill instantly. Of course, these types of poisons are extremely rare!
 
 The only way to cure sickness is to see a healer or to take medicine. Most sickness requires you to visit a healer and lay down until cured, as many medicines are quite expensive to create and own.
 
 ### Tiredness (т)
-Tiredness is separate to your Energy Points in that it is a stat which determines your characters overall tireness and lack of sleep. You will become tired and require rest to regenerate. Your characters needs to lay in a bed to regenerate this stat.
+Tiredness is separate to your Energy Points in that it is a stat which determines your characters overall tireness and lack of sleep. You will become tired and require rest to regenerate. Your character needs to lay in a bed to regenerate this stat.
 
 Tiredness starts at 0% and will work its way up to 100%. 1 point every 5 minutes by default (8 hours). At this point, your character will be exhausted, your Energy will no longer automatically regenerate and will instead drain at 1 point every 5 minutes (8 minutes) until it then begins to drain Health at also 1 point every 5 minutes (another 8 hours, total of 24 hours before unconsciousness).
 
@@ -116,6 +116,6 @@ If you are both Hungry and Poisoned, you will lose 1 point of Health and 1 point
 
 Let's say you leave your character for 8 hours online, active. In 8 hours, you will have become Starving, Dehydrated & Exhausted. You will lose 3 points of Energy every 5 minutes. Health will still drop by 1 point every 5 minutes beyond this, unless you were bleeding or sick before leaving your character online.
 
-The idea is that if you are the type of player that enjoys leaving your character in-game. You can do so, go to bed real life, leave your character sleeping in a bed in game to keep tiredness down, and when you wake up, have yourself some breakfast or what have you, efore going out into the wild worlds of SL Colonies.
+The idea is that if you are the type of player that enjoys leaving your character in-game. You can do so, go to bed real life, leave your character sleeping in a bed in game to keep tiredness down, and when you wake up, have yourself some breakfast or what have you, before going out into the wild worlds of SL Colonies.
 
 We hope that you will enjoy these stats and effects, and know that we are always listening to our active community to modify the stats to make them work best for everyone!
