@@ -5,7 +5,7 @@ tags: [features]
 ---
 Resources in SLColonies come in various forms. These are all your base ingredients and get registered into your characters virtual bag as a database item. Resources, also known as ingredients, are not physical objects and cannot be rezzed in world. 
 
-> Resources differ in every RPG game using SLColonies. But if you'd like to learn about resources used in our main project [The Counter Earth](www.thecounterearth.com) - please visit its website [www.thecounterearth.com](www.thecounterearth.com) for more information.
+> Resources differ in every RPG game using SLColonies. But if you'd like to learn about resources used in our main project [The Counter Earth](http://thecounterearth.com) - please visit its website [www.thecounterearth.com](http://thecounterearth.com) for more information.
 
 Resources are used in the varous crafting tables as input ingredients. Crafting tables have special recipes setup which require a certain combination and number of ingredients. The output product of the crafting tables can either be a final product (which can be rezzed and used), or the output product could be another compound ingredient which needs to be further traded and crafted in order to get an end product, ie: a smithy might make arrow heads, but the carpenter might have prepared the arrow shafts which needs to be joined together for the end product - or, wheat might have been ground into flour, but it then gets used further by adding water, salt, eggs, milk and so forth to create various foods.
 

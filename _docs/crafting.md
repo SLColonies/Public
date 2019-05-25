@@ -19,5 +19,5 @@ All crafting tables require input ingredients/resources of various numbers and t
 
 Some crafting tables require you to be of a certain class to be permitted to make use of it. And some recipes within will only be available to you at certain skill levels in that class.
 
-> Crafting tables differ in every RPG game using SLColonies. But if you'd like to learn about crafting used in our main project [The Counter Earth](www.thecounterearth.com) - please visit its website [www.thecounterearth.com](www.thecounterearth.com) for more information.
+> Crafting tables differ in every RPG game using SLColonies. But if you'd like to learn about crafting used in our main project [The Counter Earth](http://thecounterearth.com) - please visit its website [www.thecounterearth.com](http://thecounterearth.com) for more information.
 
