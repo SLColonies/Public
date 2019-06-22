@@ -13,7 +13,7 @@ Every profession requires to interact with another in order to survive and to be
 
 Whether you are a world builder making a new RPG, or you are a small land owner wanting to build a small farm or just enjoy cooking in your own home, or perhaps you have no land but would like to play and be a part of something greater – the limit is your imagination. You can really rule your own empire or lead your own life!
 
-##Why another farming system?
+## Why another farming system?
 SL Colonies was conceived from various ideas over years of research and testing of many games and systems from within Second Life and outside.
 
 I have enjoyed Second Life systems such as DG, G&S & DFS for many years. Even played around with Life2, Unity and combat systems like GM, GCS, zCS, DCS. 

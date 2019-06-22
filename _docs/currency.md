@@ -14,7 +14,7 @@ Value of coins to L$ then is completely player driven again and will go up and d
 
 **NOTE:** The only location where buy orders of in-game currency can be made using L$ is the SL Colonies HUB Marketplace. This is to protect any L$ put into escrow from vanishing due to abuse. Also note that the only profession which can create buy and sell orders on any marketplace are the Merchants. This is another control measure to encourage trade & travel between the various professions and localities. 
 
-##Coin Conversion Rates
+### Coin Conversion Rates
 
 | Copper | Silver | Gold |
 |:------:|:------:|:----:|

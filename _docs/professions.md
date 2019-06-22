@@ -15,48 +15,48 @@ Should players switch professions, all skill points reset to zero and the player
 
 This also opens the game to lots of roleplay and trade potential. A new RPG sim will have positions vacant for players to take on, people will have to travel from place to place in order to get the materials they require to produce for their profession.
 
-##Base Skills
+## Base Skills
 All players have base skills regardless of profession chosen. This is to enable everyone to make the starting tools required to actually get started in the game if they are not available elsewhere. These are basically your base survival skills to get out and about and actually survive. These skills do not require you to use a crafting table in order to craft and get started.
 
-###Craft Stone Pick Axe
+### Craft Stone Pick Axe
 This tool will enable you to get started if you are interested in getting into the mining profession (more on that profession later). It has low durability and is just enough to get you going. You will need the right amount of wood and stone to craft this tool.
 
-###Craft Stone Axe
+### Craft Stone Axe
 This tool will enable you to get started if you are interested in getting into the woodsman profession (more on that profession later). It has low durability and is just enough to get you going. You will need the right amount of wood and stone to craft this tool.
 
-###Craft Cooking Fire
+### Craft Cooking Fire
 With some stones and wood, you can craft yourself a cooking fire which you can use to cook basic food from. This will come in handy for those living out in the wild such as outlaws and hunters (or just anyone really). Fishing & Cooking go hand in hand.
 
-###Build Tent
+### Build Tent
 With wood and reed you can build yourself basic sleeping requirements for out in the wild. When you find yourself exhausted and tired, pull out a tent with a small bed inside and have yourself a rest to regenerate.
 
-###Build Fishing Rod
+### Build Fishing Rod
 Craft yourself basic fishing rods with wood and reed as your string, a little wooden hook to attach some bait to such as worms and have yourself a go at fishing around the various fishing zones on the lands available. Fish can be cooked and eaten to remove hunger. 
 
-##Brewer
+## Brewer
 
-##Butcher
+## Butcher
 
-##Carpenter
+## Carpenter
 
-##Cook
+## Cook
 
-##Farmer
+## Farmer
 
-##Healer
+## Healer
 
-##Herbalist
+## Herbalist
 
-##Hunter
+## Hunter
 
-##Merchant
+## Merchant
 
-##Miner
+## Miner
 
-##Outlaw
+## Outlaw
 
-##Smith
+## Smith
 
-##Warrior
+## Warrior
 
-##Woodsman
+## Woodsman
