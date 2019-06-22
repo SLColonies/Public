@@ -8,18 +8,17 @@ tags: [features]
 
 The HUD in SL Colonies is split up in various stats which are survival based and will require you to interact with the environment as well as others in order to survive.
 
-The meter consists of a HUD and the meter which is worn on your avatar. The stats are split up into 7 different values which you need to keep high or low, depending on their effect.
+The meter consists of a HUD and the meter which are worn on your avatar. The stats are split up into 7 different values which you need to keep high or low, depending on their effect.
 
 Some stats will start to effect other stats when they hit a critical limit, which will see your character limited in certain abilities.
 
 Most stats will regenerate or degenerate over time and require some input on your part to keep high or low. 
 
-Please note that the below are all **default** stats for SLColonies. You will find these stats in The Counter Earth RPG as our main project, but other world owners who have decided to use this system may have had these stats changed to suit their game.
-
-**NOTE:** If you enjoy leaving your character online while AFK, you can turn your avatar into away mode which will pause all effects. You can also type /5off or /5on to turn the meter on and off for OOC purposes, or you can simply detach the meter while your are not active. It is ill-advised however to do any roleplaying while your meter is not attached or turned on.
+**NOTE:** If you enjoy leaving your character online while AFK, you can turn your avatar into away mode which will pause all effects. You can also type /5off or /5on to turn the meter on and off for OOC purposes, or you can simply detach the meter while your are not active. It is ill-advised however to do any roleplaying while your meter is not attached or turned on. Note also that you will not be able to perform any tasks such as farming, gathering, crafting etc while not in active mode.
 
 ## Base Stats
-The base stats in SLColonies are Health & Energy. These two are predominantly displayed in the main HUD as a red Health bar and a green Energy Bar. They can easily be seen at all times and easily managed. They are also displayed as bars in the overhead meter attachments.
+{% include image.html img="HUD" alt="SLC HUD" caption="SL Colonies HUD" %}
+The base stats in SL Colonies are Health & Energy. These two are predominantly displayed in the main HUD as a red Health bar and a green Energy Bar. They can easily be seen at all times and easily managed. They are also displayed as bars in the overhead meter attachments.
 
 The base stats start at 100% and will drain to 0% due to effects caused on your character.
 

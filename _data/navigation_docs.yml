@@ -1,13 +1,12 @@
 - title: Home
   docs:
   - home
-- title: The Game
+- title: The HUD
   docs:
   - stats
-  - classes
-  - resources
-  - crafting
+  - professions
+  - currency
+  - inventory
 - title: Other
   docs:
   - beta
-  - join
