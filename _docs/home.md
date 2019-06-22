@@ -25,5 +25,3 @@ One of our methods of really fixing the problem of supply & demand and focusing 
 Our main objective with SL Colonies is to build an RPG game which fixes the problem of broken trade and economy. Our goal is to create player driven economy, supply & demand between participating lands and player interaction in a grander scale where you are rewarded for participating.
 
 The in-game currency is not printed out of thin air. It must be mined, smelted, pressed into plates and minted into usable currency in order to be of any use. Only a certain profession has access to the coin crafting and this is controlled in order to manage inflation.
-
-Coins can be further traded for L$, both buy and sell and again based on supply & demand. If you are in need of quick coin, you can visit the main SL Colonies marketplace HUB to purchase coin using L$ if it’s available at the time. You can also sell your coins for L$ if there are current buy orders for coins. We added this feature for those players use to systems such as DFS and G&S where they could sell their crafted goods on the SL Marketplace for L$.
