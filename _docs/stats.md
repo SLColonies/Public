@@ -17,7 +17,7 @@ Most stats will regenerate or degenerate over time and require some input on you
 **NOTE:** If you enjoy leaving your character online while AFK, you can turn your avatar into away mode which will pause all effects. You can also type /5off or /5on to turn the meter on and off for OOC purposes, or you can simply detach the meter while your are not active. It is ill-advised however to do any roleplaying while your meter is not attached or turned on. Note also that you will not be able to perform any tasks such as farming, gathering, crafting etc while not in active mode.
 
 ## Base Stats
-{% include image.html img="HUD" alt="SLC HUD" caption="SL Colonies HUD" %}
+{% include image.html img="hud.png" alt="SLC HUD" caption="SL Colonies HUD" %}
 The base stats in SL Colonies are Health & Energy. These two are predominantly displayed in the main HUD as a red Health bar and a green Energy Bar. They can easily be seen at all times and easily managed. They are also displayed as bars in the overhead meter attachments.
 
 The base stats start at 100% and will drain to 0% due to effects caused on your character.

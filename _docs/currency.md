@@ -3,7 +3,7 @@ title: Currency
 author: temujin
 tags: [features]
 ---
-{% include image.html img="HUD" alt="SLC HUD" caption="SL Colonies HUD" %}
+{% include image.html img="hud.png" alt="SLC HUD" caption="SL Colonies HUD" %}
 
 The currency in SL Colonies is completely player driven. Almost anything in game is crafted by the players, all the way through to the coins used as currency. Of course, some measures are put in place to stop just anyone minting official coins and flooding the economy, causing uncontrollable inflation, however, certain individuals have been given the permission to be 'coin minters' - giving them access to a coin mint to produce official coins. 
 
