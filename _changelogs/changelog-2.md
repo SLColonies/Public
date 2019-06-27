@@ -4,7 +4,7 @@ date: 2019-06-28
 ---
 {% include tag.html tag="added" %}
 
-**Version Control:**
+**Version Control:**<br>
 The HUD & Meter attachments will check current version from the database. If you are wearing an older version, system will automatically detach from your avatar. CasperUpdate will send players update requests when new versions are released.
 
 **Currency Symbol:**
@@ -13,5 +13,5 @@ The HUD & Meter attachments will check current version from the database. If you
 
 {% include tag.html tag="removed" %}
 
-**Combat:**
+**Combat:**<br>
 Combat has temporarily been switched off until we can decide how we wish it to function in-game.
