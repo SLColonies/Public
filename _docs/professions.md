@@ -27,11 +27,11 @@ This tool will enable you to get started if you are interested in getting into t
 ### Craft Cooking Fire
 With some stones and wood, you can craft yourself a cooking fire which you can use to cook basic food from. This will come in handy for those living out in the wild such as outlaws and hunters (or just anyone really). Fishing & Cooking go hand in hand.
 
+### Craft Fishing Rod
+Craft yourself basic fishing rods with wood and reed as your string, a little wooden hook to attach some bait to such as worms and have yourself a go at fishing around the various fishing zones on the lands available. Fish can be cooked and eaten to remove hunger. 
+
 ### Build Tent
 With wood and reed you can build yourself basic sleeping requirements for out in the wild. When you find yourself exhausted and tired, pull out a tent with a small bed inside and have yourself a rest to regenerate.
-
-### Build Fishing Rod
-Craft yourself basic fishing rods with wood and reed as your string, a little wooden hook to attach some bait to such as worms and have yourself a go at fishing around the various fishing zones on the lands available. Fish can be cooked and eaten to remove hunger. 
 
 ## Brewer
 
