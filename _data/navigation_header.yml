@@ -9,6 +9,9 @@ left:
 
   - title: Blog
     url: /blog/
+    
+  - title: Our Team
+    url: /docs/team/
 
 # Navbar right menu navigation links
 
