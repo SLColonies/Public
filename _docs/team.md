@@ -17,6 +17,7 @@ I cannot thank the guys below, Drakkhis and Joel for being here and for making t
 If you'd like to read more into why I decided to create SL Colonies and what the ideas behind it were, please read the Introduction section.
 
 ## Drakkhis Skaeren (drakkhis resident)
+**Lead Developer**
 Drakkhis is from Belgium (originally the U.S.) and it's unbelievable how much we see eye to eye on so many aspects of the system. In many ways, he's come up with brilliant ideas which has made SL Colonies into something even more brilliant and intense than even I had originally anticipated. 
 
 He had challenged himself in areas that he had never attempted before and learned new languages and scripting methods to make this all work.
@@ -24,6 +25,7 @@ He had challenged himself in areas that he had never attempted before and learne
 We have brought things into SL that we would think not possible and would belong in a full fledged MMORPG. But guess what - it's happened, and it's here!
 
 ## Joel Barrameda (meshmafiax resident)
+**Lead Designer**
 Joel is from the Phillipines! I met Joel a while ago when I had my Myrkvior Fjord sim build and was seeking a mesh creator to make me 9 different barrel designs when I was into the G&S system by Sombra Magic (great system btw) - his work was exceptional quality, better than any other designers I had tried to hire.
 
 Since then and explaining to him the full concept of SL Colonies and showing him where we wish to go with it, he has come on board on a full time basis for this project and has been hard at work designing all the mesh items, from resources, to crafting stations and everything to do with SL Colonies!
