@@ -83,6 +83,3 @@ Charisma is your ability to persuade people. This skill comes in handy for trade
 |Witcher    |  1  |  1  |  0  |  1  |  1  | -4  |  0   |
 
 
-|Witcher
-
-
