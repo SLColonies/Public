@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Closed Beta Update
+author: Temujin Calidius
+categories: [updates]
 ---
-
 Closed beta has been a little slow during the holiday season which was as expected. We have pushed our release date from the originally thought December date and are now looking at an around February release date. We hope by the end of February that we will have a good and stable product to release to the public as an Public Beta offering. 
 
 During closed beta, we've had a complete server change. Moving from a small host with shared style web hosting suitable only for development, over to the AWS Cloud area using VPS instances and completely separated databases to provide our system with the best possible servers, response times flexibility. Our AWS Lightsail services are located as close to the Second Life servers so that response time from within second life is super fast.
