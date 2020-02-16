@@ -9,6 +9,9 @@
   - currency
   - inventory
   - tools
+- title: Gatherables
+  docs:
+  - iron vein
 - title: Other
   docs:
   - beta
