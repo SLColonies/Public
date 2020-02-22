@@ -1,0 +1,57 @@
+temujincalidius
+==================================================================
+https://keybase.io/temujincalidius
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://slcolonies.com
+  * I am temujincalidius (https://keybase.io/temujincalidius) on keybase.
+  * I have a public key ASCq64-00j2kPgziquVm6w3q0EUCE-wgQjPkTAQYqWY3RQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120aaeb8fb4d23da43e0ce2aae566eb0dead0450213ec204233e44c0418a96637450a",
+      "host": "keybase.io",
+      "kid": "0120aaeb8fb4d23da43e0ce2aae566eb0dead0450213ec204233e44c0418a96637450a",
+      "uid": "eb62f58898876c87e5151558da4a3319",
+      "username": "temujincalidius"
+    },
+    "merkle_root": {
+      "ctime": 1582350424,
+      "hash": "0a58302ee99e8c002ad9fa1475c37879dbd6a322fb4c2f81a02459dda05fa999f14b5eb72218ac137a475257ed66e48f64fcee554fed843dfd27d4c9b77a324e",
+      "hash_meta": "b2c0054d9ee38eb7610c0ef64459d3bef2c7f06b221d72c5815543af79b52c29",
+      "seqno": 14691904
+    },
+    "service": {
+      "entropy": "mnY4VJZ0RQKfDRYxBpkarH5i",
+      "hostname": "slcolonies.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1582350676,
+  "expire_in": 504576000,
+  "prev": "037a6fb8e16cb9f07f82ef25e854ab241cf53e647b2979b0456268161de1ea05",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgquuPtNI9pD4M4qrlZusN6tBFAhPsIEIz5EwEGKlmN0UKp3BheWxvYWTESpcCCMQgA3pvuOFsufB/gu8l6FSrJBz1PmR7KXmwRWJoFh3h6gXEIFTy0+fH4khzrNoYB5DpCefbclu2981kQsomBlyFC9asAgHCo3NpZ8RAEBTiCb8DEKqhzYkGabAFUWZoLBenLlure2vW6SSpPPhpduHGFq4rBQp4T5LcX+5nKvETcCCpAvspaAHikP2rAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINW2XTJUCEACHBZpKJRVhpjC+wi3GI/eA7Vl2AUIeyAVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/temujincalidius
+
+==================================================================
