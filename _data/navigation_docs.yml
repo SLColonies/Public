@@ -13,6 +13,9 @@
 - title: Craftables
   docs:
   - smelter
+- title: Essentials
+  docs:
+  - regionserver
 - title: Gatherables
   docs:
   - ironvein
