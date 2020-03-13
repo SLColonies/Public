@@ -13,4 +13,4 @@ Secondly, upon rezzing a Region Server, your parcel details will be grabbed and 
 **Markeplace Listing**: TBC
 
 ## Tutorial
-<iframe width="560" height="315" src="hhttps://www.youtube.com/watch?v=zoNuZlJcQhE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zoNuZlJcQhE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
