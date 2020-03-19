@@ -12,6 +12,7 @@
   - tools
 - title: Craftables
   docs:
+  - carpentry
   - logger
   - smelter
 - title: Essentials
