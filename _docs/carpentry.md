@@ -1,0 +1,16 @@
+---
+title: Carpentry
+author: temujin
+tags: [features]
+---
+The carpentry table is a crafting table made for the carpenter profession. It allows players of this profession to craft a multitude of tools & weapons, as well as unique furniture & decorations which can be rezzed in world for player homes.
+
+**Price:** L$600<br>
+**Markeplace Listing**: TBC<br>
+
+**Energy Consumption:** 10<br>
+**Tool Requirement:** Carpenter's Hammer<br>
+**Tool Durability Use:** 1
+
+## Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/441VR-o1nFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
