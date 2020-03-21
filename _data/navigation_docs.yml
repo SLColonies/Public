@@ -13,6 +13,7 @@
 - title: Craftables
   docs:
   - carpentry
+  - forge
   - logger
   - smelter
 - title: Essentials
