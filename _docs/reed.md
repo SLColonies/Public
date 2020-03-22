@@ -15,4 +15,4 @@ The SLC Tree allows players to gather logs which can be further cut down into va
 **Tool Durability Use:** 0
 
 ## Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdZzMYdIT2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UG7EujxkFCI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
