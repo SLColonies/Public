@@ -12,6 +12,7 @@
   - tools
 - title: Craftables
   docs:
+  - basket
   - carpentry
   - forge
   - logger
