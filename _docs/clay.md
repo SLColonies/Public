@@ -3,7 +3,7 @@ title: Clay Mound
 author: temujin
 tags: [features]
 ---
-The SLC Tree allows players to gather logs which can be further cut down into various sizes of wooden planks and scraps. These are used in Carpentry & Smithing to product various tools, weapons, furniture & decorations.
+The clay mound is a gatherable which allows players to gather clumps of clay, using a basket. This clay can be brought over to a pottery station to make various jars and pots which are further used in gathering processes. Such as gathering water, milk, honey and so on.
 
 **Price:** L$200<br>
 **Markeplace Listing**: TBC<br>
