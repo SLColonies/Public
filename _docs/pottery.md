@@ -12,7 +12,7 @@ Created for the Farmers profession.
 
 **Energy Consumption:** 5<br>
 **Tool Requirement:** None<br>
-**Tool Durability Use:** 1
+**Tool Durability Use:** 0
 
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f6N3X2uRM2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
