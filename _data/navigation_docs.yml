@@ -21,9 +21,13 @@
 - title: Essentials
   docs:
   - regionserver
+- title: Farmables
+  docs:
+  - field
 - title: Gatherables
   docs:
   - clay
+  - fish
   - ironvein
   - reed
   - tree
