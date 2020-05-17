@@ -26,6 +26,7 @@
   - smelter
 - title: Essentials
   docs:
+  - marketplace
   - regionserver
 - title: Farmables
   docs:
