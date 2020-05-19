@@ -28,6 +28,7 @@
   docs:
   - marketplace
   - regionserver
+  - vendor
 - title: Farmables
   docs:
   - field
