@@ -31,6 +31,7 @@
   - vendor
 - title: Farmables
   docs:
+  - bull
   - cow
   - field
 - title: Gatherables
