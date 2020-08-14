@@ -14,3 +14,11 @@ The basketweaving station allows all players to use their gathered reed leaves t
 
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wII_jq94UoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Available Recipes
+
+| Recipe Name  | Level | Ingredients |
+|:-------------|:-----:|:-----------:|
+| Seed Bag     |   0   |     1       |
+| Small Basket |   1   |     1       |
+

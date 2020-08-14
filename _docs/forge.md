@@ -14,3 +14,16 @@ This crafting station is for the smith profession and allows players to craft va
 
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2fX3t0YLsb4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+| Recipe Name       | Level | Ingredients |
+|:------------------|:-----:|:-----------:|
+| Arrow Head        |   0   |     1       |
+| Billhook          |   1   |     2       |
+| Carpenters Hammer |   1   |     2       |
+| Iron Pickaxe      |   1   |     2       |
+| Lumberjack Axe    |   1   |     2       |
+| Metal Loop        |   0   |     0       |
+| Metal Scraps      |   0   |     1       |
+| Metal Sheet       |   0   |     1       |
+| Sickle            |   1   |     2       |
+| Smiths Hammer     |   1   |     2       |

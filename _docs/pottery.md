@@ -16,3 +16,8 @@ Created for the Farmers profession.
 
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f6N3X2uRM2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+| Recipe Name | Level | Ingredients |
+|:------------|:-----:|:-----------:|
+| Clay Jar    |   0   |     2       |
+| Clay Pot    |   1   |     2       |

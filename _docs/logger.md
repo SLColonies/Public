@@ -23,3 +23,12 @@ This pack includes bonus items which are copy (no trans) permissions for your bu
 
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EBSBTNzRSdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+| Recipe Name  | Level | Ingredients |
+|:-------------|:-----:|:-----------:|
+| Large Plank  |   0   |     1       |
+| Medium Plank |   1   |     1       |
+| Small Plank  |   1   |     1       |
+| Wood Scraps  |   1   |     1       |
+ 
+

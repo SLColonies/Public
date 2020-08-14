@@ -15,3 +15,7 @@ The Flour Mill will allow farmers to grind various grains from their raw forms i
 
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vonpJI_NliY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+| Recipe Name | Level | Ingredients |
+|:------------|:-----:|:-----------:|
+| Wheat Flour |   1   |     1       |

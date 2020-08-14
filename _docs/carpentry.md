@@ -14,3 +14,13 @@ The carpentry table is a crafting table made for the carpenter profession. It al
 
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/441VR-o1nFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+| Recipe Name          | Level | Ingredients |
+|:---------------------|:-----:|:-----------:|
+| Arrow                |   1   |     2       |
+| Fishing Rod          |   2   |     4       |
+| Large Wooden Handle  |   1   |     1       |
+| Medium Wooden Handle |   1   |     1       |
+| Oak Barrel           |   2   |     4       |
+| Plough               |   3   |     6       |
+| Small Wooden Handle  |   0   |     1       |

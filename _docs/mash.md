@@ -15,3 +15,7 @@ As an example, a brewer could choose to make Whiskey. This process requires you 
 
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4uBKn_1LO2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+| Recipe Name | Level | Ingredients |
+|:------------|:-----:|:-----------:|
+| Wheat Mash  |   0   |     1       |
