@@ -2,9 +2,9 @@
 title: Version 0.9.18.0 Beta
 date: 2020-08-15
 ---
-{% include tag.html tag="fixed" %}
+{% include tag.html tag="security" %}
 
-- This is a force update, all older versions of the HUD will no longer work.
+- This is a forced update, all older versions of the HUD will no longer work.
 
 {% include tag.html tag="fixed" %}
 
