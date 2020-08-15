@@ -18,7 +18,10 @@ Cooks are the only profession which will also gain CXP while crafting using thes
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YZHZqPCDkyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| Recipe Name  | Level | Ingredients |
-|:-------------|:-----:|:-----------:|
-| Bread Roll   |   0   |     2       |
-| Cooked Fish  |   0   |     1       |
+| Recipe Name   | Level | Ingredients |
+|:--------------|:-----:|:-----------:|
+| Bread Roll    |   0   |     2       |
+| Cooked Fish   |   0   |     1       |
+| Cream         |   0   |     1       |
+| Butter        |   0   |     1       |
+| Fried Lobster |   1   |     3       |
