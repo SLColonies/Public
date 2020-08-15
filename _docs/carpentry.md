@@ -19,8 +19,8 @@ The carpentry table is a crafting table made for the carpenter profession. It al
 |:---------------------|:-----:|:-----------:|
 | Arrow                |   1   |     2       |
 | Fishing Rod          |   2   |     4       |
-| Large Wooden Handle  |   1   |     1       |
-| Medium Wooden Handle |   1   |     1       |
+| Large Wooden Handle  |   1   |     2       |
+| Medium Wooden Handle |   1   |     2       |
 | Mug 1(*)             |   1   |     2       |
 | Oak Barrel           |   2   |     4       |
 | Plough               |   3   |     6       |
