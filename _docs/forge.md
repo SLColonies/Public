@@ -22,7 +22,7 @@ This crafting station is for the smith profession and allows players to craft va
 | Carpenters Hammer |   1   |     2       |
 | Iron Pickaxe      |   1   |     2       |
 | Lumberjack Axe    |   1   |     2       |
-| Metal Loop        |   0   |     0       |
+| Metal Loop        |   0   |     1       |
 | Metal Scraps      |   0   |     1       |
 | Metal Sheet       |   0   |     1       |
 | Sickle            |   1   |     2       |
