@@ -12,7 +12,7 @@ There are 6 traits that each race has. Humans are the most balanced race, having
 | Lycan |  2  |  0  |  2  | -1  | -1  | -2  |   0  |
 
 ## The Stats
-Some traits will affect the meter directly, such as constitution will increase player total health and blood, while dexterity would affect total energy and fatigue.
+Some traits will affect the meter directly, such as constitution will increase player total health and energy, while dexterity would affect total energy and fatigue.
 
 Other stats like strength might affect total damage per hit using hand held weapons while dexterity might also increase damage on ranged weapons.
 
@@ -51,35 +51,49 @@ Charisma is your ability to persuade people. This skill comes in handy for trade
 
 ## The Races
 
+each race has base stats which affect the meter in one way or another. They will also effect certain items that you come across in the system and be made available to crafters. For example, a carpenter might craft a door which can only be access with someone with x amount of a particular stat chosen by the owner of the door.
+
+As you will see below, every stat is balanced so that the end result always gives a total of 0. If you have +2 strength, you would need -2 in one of the other weighted stats with a weight of 2, or 2 of the sub stats. IE: +2 strength, -2 dexterity = 0 total. Or, +2 strength, -1 Intelligence, -1 Charisma = 0
+
+Player can upgrade their stats by visiting the player station in the main store and these are the stats which affect certain attributes:
+Each point or lack of a point thereof, gives the player +5 or -5 in the stat. IE: +1 strength will increase a players Hunger and blood by 5.
+
+Strength = +1 Hunger & +1 Blood
+Dexterity = +1 Energy & +1 Fatigue
+Constitution = +1 Health & +1 Energy % +1 Poison
+Intelligence = +1 Thirst & +1 Fatigue
+Wisdom = +1 Poison & +1 Blood
+Charisma = +1 Hunger & +1 Thirst
+
 |Race       | Str | Dex | Con | Int | Wis | Char| Total|
 |:---------:|:---:|:---:|:---:|:---:|:---:|:---:|:----:|
-|Angel      | -1  | -1  | -1  |  1  |  1  |  1  |  0   |
-|Centaur    |  2  | -2  |  0  |  0  |  1  | -1  |  0   |
-|Changeling | -1  | -1  | -1  |  0  |  1  |  2  |  0   |
-|Demon      |  1  |  1  |  1  | -1  | -1  | -1  |  0   |
-|Dragonborn |  2  | -1  |  0  | -1  | -1  |  1  |  0   |
-|Dwarf      |  0  |  0  |  2  | -1  |  0  | -1  |  0   |
-|Elf        | -1  |  2  | -1  |  0  |  0  |  0  |  0   |
-|Gnome      | -1  |  0  | -1  |  2  |  0  |  0  |  0   |
-|Goblin	    |  0  |  2  |  1  | -1  | -1  | -1  |  0   |
-|Gorean     |  2  | -1  |  0  |  0  |  1  | -2  |  0   |
-|Half Orc   |  2  | -2  |  1  |  0  |  0  | -1  |  0   |
-|Half-Elf   | -1  |  1  |  0  |  1  | -2  |  1  |  0   |
-|Halfling   | -1  |  2  | -1  |  0  |  0  |  0  |  0   |
-|Hobgoblin  |  0  |  0  |  2  |  1  | -1  | -2  |  0   |
+|Angel      | -1  |  2  | -2  |  0  |  1  |  1  |  0   |
+|Centaur    |  2  |  1  |  2  | -4  | -4  | -2  |  0   |
+|Changeling |  0  |  1  | -1  |  0  |  0  |  0  |  0   |
+|Demon      |  3  | -2  |  3  | -5  |  2  | -5  |  0   |
+|Dragonborn |  2  | -1  |  1  | -2  | -1  | -1  |  0   |
+|Dwarf      |  1  | -1  |  1  |  0  | -1  | -1  |  0   |
+|Elf        | -2  |  2  | -2  |  1  |  2  |  1  |  0   |
+|Gnome      | -2  |  2  | -2  |  2  |  1  |  1  |  0   |
+|Goblin     | -1  |  1  | -1  |  1  |  1  |  0  |  0   |
+|Gorean     |  1  |  0  |  0  | -1  |  0  | -1  |  0   |
+|Half Orc   |  1  | -1  |  1  | -1  |  0  | -1  |  0   |
+|Half-Elf   | -1  |  1  | -2  |  1  |  1  |  2  |  0   |
+|Halfling   | -2  |  1  | -1  |  1  |  1  |  2  |  0   |
+|Hobgoblin  | -3  |  1  |  1  |  3  |  0  | -1  |  0   |
 |Human      |  0  |  0  |  0  |  0  |  0  |  0  |  0   |
-|Kur        |  3  | -2  |  2  |  0  |  0  | -3  |  0   |
-|Lizard Folk| -1  | -1  |  2  | -1  |  1  |  0  |  0   |
-|Lycan      |  2  |  0  |  2  | -1  | -1  | -2  |  0   |
-|Minotaur   |  2  | -2  |  1  |  0  |  0  | -1  |  0   |
-|Orc        |  2  |  0  |  1  | -2  | -1  |  0  |  0   |
-|Priest-King| -3  | -1  |  0  |  2  |  2  |  0  |  0   |
-|Seer       | -3  | -1  | -1  |  2  |  2  |  1  |  0   |
-|Shifter    |  0  |  0  |  0  |  0  |  0  |  0  |  0   |
-|Tiefling   | -2  |  0  | -1  |  1  |  0  |  2  |  0   |
-|Vampire    | -1  |  1  | -2  |  0  |  1  |  1  |  0   |
-|Werewolf   |  3  |  1  |  1  | -1  |  0  | -4  |  0   |
-|Werebear   |  2  |  0  |  3  | -1  | -1  | -3  |  0   |
-|Witcher    |  1  |  1  |  0  |  1  |  1  | -4  |  0   |
+|Kur        |  3  | -2  |  3  | -3  | -2  | -3  |  0   |
+|Lizard Folk|  1  |  1  | -2  |  0  |  3  | -3  |  0   |
+|Lycan      |  3  | -2  |  3  | -2  | -2  | -4  |  0   |
+|Minotaur   |  3  | -3  |  3  | -2  | -2  | -2  |  0   |
+|Orc        |  2  | -2  |  2  | -1  | -1  | -2  |  0   |
+|Priest-King|  1  |  1  | -2  |  0  |  0  |  0  |  0   |
+|Seer       | -2  |  2  | -2  |  2  |  2  |  0  |  0   |
+|Shifter    |  0  |  1  | -1  |  0  |  0  |  0  |  0   |
+|Tiefling   |  0  |  1  | -2  |  1  | -1  |  2  |  0   |
+|Vampire    |  1  |  1  | -1  |  0  |  0  |  2  |  0   |
+|Werewolf   |  2  | -2  |  2  | -1  | -1  | -2  |  0   |
+|Werebear   |  3  | -3  |  3  | -2  | -2  | -2  |  0   |
+|Witcher    |  1  |  1  |  1  | -1  | -1  | -4  |  0   |
 
 
