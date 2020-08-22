@@ -16,7 +16,7 @@ Herbalists are the only profession which will also gain CXP while crafting using
 **Tool Durability Use:** 0
 
 ## Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZHZqPCDkyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vsHWRMMVn7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 | Recipe Name     | Level | Ingredients |
 |:----------------|:-----:|:-----------:|
