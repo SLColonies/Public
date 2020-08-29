@@ -38,9 +38,12 @@
 - title: Gatherables
   docs:
   - clay
+  - copper
   - fish
+  - gold
   - ironvein
   - reed
+  - silver
   - tree
   - water
 - title: Other
