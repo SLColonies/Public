@@ -15,6 +15,10 @@ The Smelter is a crafting table for the Smelter profession of SL Colonies. Any p
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j1D_Nn1PmPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| Recipe Name | Level | Ingredients |
-|:------------|:-----:|:-----------:|
-| Iron Ingot  |   0   |     1       |
+| Recipe Name  | Level | Ingredients |
+|:-------------|:-----:|:-----------:|
+| Copper Ingot |   1   |     1       |
+| Gold Ingot   |   3   |     1       |
+| Iron Ingot   |   0   |     1       |
+| Silver Ingot |   2   |     1       |
+

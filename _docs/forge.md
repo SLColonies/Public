@@ -20,10 +20,13 @@ This crafting station is for the smith profession and allows players to craft va
 | Arrow Head        |   0   |     1       |
 | Billhook          |   1   |     2       |
 | Carpenters Hammer |   1   |     2       |
+| Copper Coin Bag   |   1   |     1       |
+| Gold Coin Bag     |   3   |     1       |
 | Iron Pickaxe      |   1   |     2       |
 | Lumberjack Axe    |   1   |     2       |
 | Metal Loop        |   0   |     1       |
 | Metal Scraps      |   0   |     1       |
 | Metal Sheet       |   0   |     1       |
 | Sickle            |   1   |     2       |
+| Silver Coin Bag   |   2   |     1       |
 | Smiths Hammer     |   1   |     2       |
