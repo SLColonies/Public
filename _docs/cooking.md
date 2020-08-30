@@ -25,4 +25,5 @@ Cooks are the only profession which will also gain CXP while crafting using thes
 | Cooked Fish   |   0   |     1       |
 | Cream         |   0   |     1       |
 | Fried Lobster |   1   |     3       |
+| Garlic Prawns |   1   |     3       |
 | Water Tray    |   0   |     2       |
