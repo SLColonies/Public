@@ -5,9 +5,9 @@ tags: [features]
 ---
 The Limited Merchant Scripts are Vendor Scripts which allow players to setup Vendors or NPC Merchants (shop keepers) which sell crafted items as well as allow the purchasing of items from other players using the SL Colonies coins.
 
-These scripts are COPY but NO TRANSFER.
+Players can choose to sell/buy items with any SLC economy coin.
 
-**Price:** L$1,000<br>
+**Price:** L$50<br>
 **Markeplace Listing**: TBC
 
 ## Tutorial
