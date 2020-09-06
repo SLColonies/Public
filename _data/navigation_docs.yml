@@ -14,6 +14,7 @@
   docs:
   - basket
   - carpentry
+  - coin
   - cooking
   - distillery
   - fermentor
@@ -29,6 +30,7 @@
   docs:
   - marketplace
   - regionserver
+  - rental
   - vendor
 - title: Farmables
   docs:
