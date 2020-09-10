@@ -14,6 +14,7 @@ In manufacturing spirits, there is a distillation process required to draw out t
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4uBKn_1LO2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| Recipe Name | Level | Ingredients |
-|:------------|:-----:|:-----------:|
-| Moonshine   |   1   |     1       |
+| Recipe Name     | Level | Ingredients |
+|:----------------|:-----:|:-----------:|
+| Moonshine       |   1   |     1       |
+| Vodka Moonshine |   1   |     1       |

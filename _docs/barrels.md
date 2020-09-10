@@ -16,4 +16,5 @@ Placing your completed alcoholic concoctions into these barrels will allow you t
 
 | Recipe Name       | Level | Ingredients |
 |:------------------|:-----:|:-----------:|
+| Vodka Barrel(*)   |   2   |     3       |
 | Whiskey Barrel(*) |   2   |     3       |
