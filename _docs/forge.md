@@ -25,10 +25,12 @@ This crafting station is for the smith profession and allows players to craft va
 | Gold Coin Bag      |   3   |     2       |
 | Iron Pickaxe       |   1   |     2       |
 | Lumberjack Axe     |   1   |     2       |
+| Medium Iron Blade  |   1   |     2       |
 | Metal Loop         |   0   |     1       |
 | Metal Scraps       |   0   |     1       |
 | Metal Sheet        |   0   |     1       |
 | Sickle             |   1   |     2       |
 | Silver Coin Bag    |   2   |     2       |
+| Slaughter Knife    |   1   |     2       |
 | Small Iron Blade   |   0   |     1       |
 | Smiths Hammer      |   1   |     2       |
