@@ -7,7 +7,7 @@ The farming field is an essential for the Farmer profession and is in fact restr
 
 These crops are essentials for a thriving civilisation. Including wheat, potatoes, sugar cane and more. Some can be ground into Flour while others can be crushed and used as it. Many of the ingredients coming out of large fields are also used in the manufacturing of alchohols in the brewing profession.
 
-**Price:** L$200<br>
+**Price:** L$400<br>
 **Markeplace Listing**: TBC<br>
 
 **Ploughing Tool:** Plough<br>
@@ -24,7 +24,7 @@ These crops are essentials for a thriving civilisation. Including wheat, potatoe
 
 **Maximum Harvests:** 10 (10 items)<br>
 
-**Growth Speed:** 7 days
+**Growth Speed:** 1 day
 
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M2m5A1kJBIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
