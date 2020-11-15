@@ -21,4 +21,5 @@ The Smelter is a crafting table for the Smelter profession of SL Colonies. Any p
 | Gold Ingot   |   3   |     1       |
 | Iron Ingot   |   0   |     1       |
 | Silver Ingot |   2   |     1       |
+| Steel Ingot  |   1   |     2       |
 
