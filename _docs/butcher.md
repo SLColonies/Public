@@ -13,7 +13,7 @@ The Butcher Table is a crafting station made for the Butcher profession of SL Co
 **Tool Durability Use:** 1
 
 ## Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/441VR-o1nFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hq2_vf60ejA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 | Recipe Name         | Level | Ingredients |
 |:--------------------|:-----:|:-----------:|
