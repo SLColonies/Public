@@ -17,5 +17,11 @@ The Butcher Table is a crafting station made for the Butcher profession of SL Co
 
 | Recipe Name         | Level | Ingredients |
 |:--------------------|:-----:|:-----------:|
+| Beef Mince          |   0   |     1       |
+| Beef Porterhouse    |   1   |     1       |
 | Beef Portions (100) |   0   |     1       |
+| Beef Rib Eye        |   1   |     1       |
+| Beef Scotch Fillet  |   1   |     1       |
+| Beef Tenderloin     |   1   |     1       |
+| Beef Trim           |   0   |     1       |
 
