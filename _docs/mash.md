@@ -18,5 +18,5 @@ As an example, a brewer could choose to make Whiskey. This process requires you 
 
 | Recipe Name  | Level | Ingredients |
 |:-------------|:-----:|:-----------:|
-| Potato(mash) |   0   |     1       |
-| Wheat Mash   |   0   |     1       |
+| Potato(mash) |   0   |     2       |
+| Wheat Mash   |   0   |     2       |
