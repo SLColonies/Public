@@ -1,5 +1,5 @@
 ---
-title: Version 0.9.26.0 Beta
+title: Version 0.9.27.0 Beta
 date: 2021-01-22
 ---
 {% include tag.html tag="fixed" %}
