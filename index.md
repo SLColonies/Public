@@ -7,7 +7,7 @@ hero:
     image: clearlogo.png
     search: true
 ---
-{% include team.html authors="temujin, drakkhis, joel" title="Our Team" subtitle="Passionate about creating something truly unique for Second Life Roleplayers." %}
+{% include team.html authors="temujin, drakkhi" title="Our Team" subtitle="Passionate about creating something truly unique for Second Life Roleplayers." %}
 
 {% include boxes.html columns="3" title="Browse Topics" subtitle="Chose an option that you need help with or search above" %}
 
