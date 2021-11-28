@@ -23,11 +23,3 @@ Drakkhis is from Belgium (originally the U.S.) and it's unbelievable how much we
 He had challenged himself in areas that he had never attempted before and learned new languages and scripting methods to make this all work.
 
 We have brought things into SL that we would think not possible and would belong in a full fledged MMORPG. But guess what - it's happened, and it's here!
-
-## Joel Barrameda (meshmafiax resident)
-**Lead Designer**
-Joel is from the Phillipines! I met Joel a while ago when I had my Myrkvior Fjord sim build and was seeking a mesh creator to make me 9 different barrel designs when I was into the G&S system by Sombra Magic (great system btw) - his work was exceptional quality, better than any other designers I had tried to hire.
-
-Since then and explaining to him the full concept of SL Colonies and showing him where we wish to go with it, he has come on board on a full time basis for this project and has been hard at work designing all the mesh items, from resources, to crafting stations and everything to do with SL Colonies!
-
-His unique ability to see eye to eye with all my descriptions and desires of objects I wish to make come to life for the project is phenomenal. A few words, a description of the concept of what I'd like to see and maybe an example photo from Google images which gives him to ability to understand what I am seeking is all that is needed. Once he got the 'theme' and 'feel' of what we were going for, his ability to come up with 1 or 2 concepts/drafts and be spot on with what we want has made him absolutely awesome!
