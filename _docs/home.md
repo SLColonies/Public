@@ -5,7 +5,7 @@ author: temujin
 tags: [introduction]
 ---
 
-SL Colonies is an RPG game (currently in Alpha Development) within Second Life which focuses on Survival, Farming, Breeding, Crafting and Trading.
+SL Colonies is an RPG game (currently in Beta Development) within Second Life which focuses on Survival, Farming, Breeding, Crafting and Trading.
 
 SL Colonies defers greatly from other systems within Second Life in that its focus is to encourage all players within the system to get out there and visit other lands in order to progress in their chosen profession. 
 
