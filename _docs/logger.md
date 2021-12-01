@@ -6,7 +6,7 @@ tags: [features]
 The SLC Logging station is a crafting station for the Woodsmen profession. It allows woodsmen to cut down trees of logs into their various plank forms as well as scrap wood. These planks and scraps are used by the Carpenters to make a variety of tools, weapons, furniture & other decorations.
 
 **Price:** L$1,000<br>
-**Markeplace Listing**: TBC<br>
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Craftables-Logging-Station/19126580)<br>
 
 **Energy Consumption:** 15<br>
 **Tool Requirement:** None<br>
