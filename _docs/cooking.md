@@ -18,7 +18,7 @@ Cooks are the only profession which will also gain CXP while crafting using thes
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YZHZqPCDkyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**RECIPES**
+**RECIPES**<br>
 All recipes are now player invented with a drag and drop system. If someone has already come up with a recipe, you will have to figure out what it is or create your own new one using different ingredients and naming it something difference. 
 
 All finished products use the base stats from the raw ingredients put in, allowing you to make foods that increase and decrease any stats! 
