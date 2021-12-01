@@ -22,7 +22,7 @@ The carpentry table is a crafting table made for the carpenter profession. It al
 | bone_sword_grip_1    |   1   |     2       |
 | Fishing Rod          |   2   |     4       |
 | Large Wooden Handle  |   1   |     2       |
-| leather_sword_grip_1 |   3   |     3       |
+| leather_sword_grip_1 |   2   |     3       |
 | Medium Wooden Handle |   1   |     2       |
 | Mug 1(*)             |   1   |     2       |
 | Oak Barrel           |   2   |     4       |
