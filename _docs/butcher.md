@@ -6,7 +6,7 @@ tags: [features]
 The Butcher Table is a crafting station made for the Butcher profession of SL Colonies. Butchers will be able to take various farm animal carcasses and portion them into special cuts of meat. These cuts and trimmings can be further processed down into minces and sausages, used by cooks to make nourishing meals.
 
 **Price:** L$600<br>
-**Markeplace Listing**: TBC<br>
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Craftables-Butcher-Table/20794241)<br>
 
 **Energy Consumption:** 5<br>
 **Tool Requirement:** Butcher Knife<br>
