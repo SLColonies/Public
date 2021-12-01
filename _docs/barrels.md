@@ -6,7 +6,7 @@ tags: [features]
 Placing your completed alcoholic concoctions into these barrels will allow you to age and mature your drinks which will in turn give you rezzable items which can be used to dispence drinks that effect player meter stats.
 
 **Price:** L$400<br>
-**Markeplace Listing**: (https://marketplace.secondlife.com/p/SLC-Craftables-Oak-Barrels/19585801)<br>
+**Markeplace Listing**: [Click](https://marketplace.secondlife.com/p/SLC-Craftables-Oak-Barrels/19585801)<br>
 
 **Energy Consumption:** 1<br>
 **Tool Requirement:** None
