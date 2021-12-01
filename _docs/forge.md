@@ -6,7 +6,7 @@ tags: [features]
 This crafting station is for the smith profession and allows players to craft various tools & weapons.
 
 **Price:** L$600<br>
-**Markeplace Listing**: TBC<br>
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Craftables-Forge-Anvil/19206753)<br>
 
 **Energy Consumption:** 20<br>
 **Tool Requirement:** Smith's Hammer<br>
