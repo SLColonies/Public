@@ -7,7 +7,7 @@ This is an essential crafting station restricted to the farming profession only.
 The Flour Mill will allow farmers to grind various grains from their raw forms into one of the most sought after supplies. Flour, a staple ingredient to many foods in SL Colonies.
 
 **Price:** L$600<br>
-**Markeplace Listing**: TBC<br>
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Craftables-Flour-Mill/19440304)<br>
 
 **Energy Consumption:** 20<br>
 **Tool Requirement:** None<br>
