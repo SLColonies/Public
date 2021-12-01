@@ -6,7 +6,7 @@ tags: [features]
 The basketweaving station allows all players to use their gathered reed leaves to create various baskets. These baskets are use for gathering other items, such as wool, clay, wheat and so on.
 
 **Price:** L$600<br>
-**Markeplace Listing**: TBC<br>
+**Markeplace Listing**: [Click](https://marketplace.secondlife.com/p/SLC-Craftables-Basketweaving-Station/19218617)<br>
 
 **Energy Consumption:** 5<br>
 **Tool Requirement:** Billhook<br>
