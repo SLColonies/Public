@@ -8,7 +8,7 @@ The pottery table allows players to craft various sizes of pots and jars. These 
 Created for the Farmers profession.
 
 **Price:** L$600<br>
-**Markeplace Listing**: TBC<br>
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Craftables-Pottery-Table/19235090)<br>
 
 **Energy Consumption:** 5<br>
 **Tool Requirement:** None<br>
