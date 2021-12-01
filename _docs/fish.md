@@ -10,7 +10,7 @@ You will need multiple of these on your land. Each pool can be used by 1 user at
 As the owner of this item, you can set an unlimited number of respawn locations that the item will reappear after each fishing attempt (see the video).
 
 **Price:** L$200<br>
-**Markeplace Listing**: TBC<br>
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Gatherables-Fishing-Pool/19387612)<br>
 
 **Respawn Rate:** Instant<br>
 **Gather Amount:** 1<br>
