@@ -9,7 +9,7 @@ The coin mint allows players to craft their own currency for use in the SLC econ
 This currency works with the HUD, as well as vendors and rental system.
 
 **Price:** L$600<br>
-**Markeplace Listing**: TBC<br>
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Craftables-Coin-Mint/20286386)<br>
 
 **Energy Consumption:** 5<br>
 **Tool Requirement:** None<br>
