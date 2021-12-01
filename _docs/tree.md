@@ -6,7 +6,7 @@ tags: [features]
 The SLC Tree allows players to gather logs which can be further cut down into various sizes of wooden planks and scraps. These are used in Carpentry & Smithing to product various tools, weapons, furniture & decorations.
 
 **Price:** L$200<br>
-**Markeplace Listing**: TBC<br>
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Gatherables-Tree-1/19043407)<br>
 
 **Respawn Rate:** 7 Days / Weekly<br>
 **Gather Amount:** 1 to 5<br>
