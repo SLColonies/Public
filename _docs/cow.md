@@ -7,8 +7,8 @@ The Dairy Cow is an animal farmers can have on land to gather milk from numerous
 
 Dairy Cows can also be slaughtered for their leather & milk. Doing so will be permanent however & the player will have to seek out a breeder to purchase replacement stock for coin.
 
-**Price:** L$200<br>
-**Markeplace Listing**: TBC<br>
+**Price:** CXP or Bred using a Bull<br>
+**Markeplace Listing**: CXP Store Only / In-World<br>
 
 **Required Tool:** Clay Pot<br>
 **Durability Use:** 1<br>
