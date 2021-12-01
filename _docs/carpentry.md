@@ -6,7 +6,7 @@ tags: [features]
 The carpentry table is a crafting table made for the carpenter profession. It allows players of this profession to craft a multitude of tools & weapons, as well as unique furniture & decorations which can be rezzed in world for player homes.
 
 **Price:** L$600<br>
-**Markeplace Listing**: TBC<br>
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Craftables-Carpentry-Station/19198361)<br>
 
 **Energy Consumption:** 10<br>
 **Tool Requirement:** Carpenter's Hammer<br>
