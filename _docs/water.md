@@ -8,7 +8,7 @@ The Water Script is a script which sim builders can place into any modifiable ob
 A Water Source allows players to gather Water. An extremely important survival ingredient and ingredient used in many crafting recipes.
 
 **Price:** L$200<br>
-**Markeplace Listing**: TBC<br>
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Gatherables-Water-Script/19229655)<br>
 
 **Respawn Rate:** Instant<br>
 **Gather Amount:** 1<br>
