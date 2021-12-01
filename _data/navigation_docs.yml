@@ -50,6 +50,7 @@
   - tree
   - water
 - title: Weapons
+  docs:
   - engineering
   - research
   - weaponkit
