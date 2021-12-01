@@ -11,7 +11,7 @@ These blank coins can be sold to a coin minter to be pressed into a sim specific
 As the owner of this item, you can set an unlimited number of respawn locations that the item will reappear after its timer (see the video).
 
 **Price:** L$200<br>
-**Markeplace Listing**: TBC<br>
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Gatherables-Copper-Vein/20236776)<br>
 
 **Respawn Rate:** 24 Hours / Daily<br>
 **Gather Amount:** 1 to 5<br>
