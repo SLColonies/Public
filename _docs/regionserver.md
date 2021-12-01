@@ -10,7 +10,7 @@ Firstly, it'll allow your players who have crafted tools within the game to be a
 Secondly, upon rezzing a Region Server, your parcel details will be grabbed and automatically listed on our front portal page at http://meter.slcolonies.com. Players of the SL Colonies game will be able to see a list of participating locations and come visit your location. As a region server owner, you are able to modify all your listings, including name, type, surl & texture to use.
 
 **Price:** L$2,000<br>
-**Markeplace Listing**: TBC
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Region-Server/19028662)<br>
 
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zoNuZlJcQhE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
