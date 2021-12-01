@@ -9,7 +9,7 @@ The herbalist table allows a herbalist to create various potions and concoctions
 Herbalists are the only profession which will also gain CXP while crafting using these stations.
 
 **Price:** L$600<br>
-**Markeplace Listing**: TBC<br>
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Craftables-Herbalist-Table/20199930)<br>
 
 **Energy Consumption:** 1<br>
 **Tool Requirement:** None<br>
