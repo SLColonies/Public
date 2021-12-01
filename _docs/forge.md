@@ -76,12 +76,12 @@ This crafting station is for the smith profession and allows players to craft va
 | steel_sword_blade_2    |   3   |     2       |
 | steel_sword_blade_3    |   3   |     2       |
 | steel_sword_blade_4    |   3   |     2       |
-| steel_sword_blade_5    |   3   |     2       |
+| steel_sword_blade_5    |   4   |     3       |
 | steel_sword_hilt_1     |   3   |     2       |
 | steel_sword_hilt_2     |   3   |     2       |
 | steel_sword_hilt_3     |   3   |     2       |
 | steel_sword_hilt_4     |   3   |     2       |
-| steel_sword_hilt_5     |   3   |     2       |
+| steel_sword_hilt_5     |   4   |     3       |
 | steel_sword_pommel_1   |   3   |     2       |
 | steel_sword_pommel_2   |   3   |     2       |
 | steel_sword_pommel_3   |   3   |     2       |
