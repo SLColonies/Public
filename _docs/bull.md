@@ -8,7 +8,7 @@ The Dairy Cow is an animal farmers can have on land to gather milk from numerous
 The bull is just like a crafting station, however it is used to breed new dairy cows over a period of time. Players must be a Level 2 farmer to succeed in the breeding process.
 
 **Price:** L$600<br>
-**Markeplace Listing**: TBC<br>
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Farmables-Bull/20142465)<br>
 
 **Required Tool:** None<br>
 **Durability Use:** 0<br>
