@@ -9,6 +9,6 @@ hero:
 ---
 {% include team.html authors="temujin, drakkhis" title="Our Team" subtitle="Passionate about creating something truly unique for Second Life Roleplayers." %}
 
-{% include boxes.html columns="3" title="Browse Topics" subtitle="Chose an option that you need help with or search above" %}
+{% include boxes.html columns="3" title="Learn More" subtitle="Learn more about SLColonies, how to join and where you can play!" %}
 
-{% include featured.html tag="featured" title="Popular Articles" subtitle="Selected featured articles to get you started fast in Jekyll" %}
+{% include featured.html tag="featured" title="Popular Articles" subtitle="Here are some featured articles." %}
