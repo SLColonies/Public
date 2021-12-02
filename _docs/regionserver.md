@@ -1,7 +1,7 @@
 ---
 title: Region Server
 author: temujin
-tags: [features]
+tags: [featured]
 ---
 The Region Server is a must have tool for sim owners building around the SL Colonies system. This server does a a couple of things:
 
