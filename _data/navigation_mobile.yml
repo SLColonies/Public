@@ -5,13 +5,18 @@
 
 - title: Docs
   url: /docs/home/
-
-- title: Blog
-  url: /blog/
+  
+- title: Our Team
+  url: /docs/team/
 
 - title: Changelog
   url: /changelog-posts/
 
-- title: Contact
-  url: /contact/
-  button: success
+- title: Forums
+  url: https://forum.slcolonies.com
+
+- title: Discord
+  url: https://discord.gg/nAgxReW
+
+- title: Bug Report
+  url: https://github.com/SLColonies/Public/issues/new/choose
