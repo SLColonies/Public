@@ -18,4 +18,7 @@ The Flour Mill will allow farmers to grind various grains from their raw forms i
 
 | Recipe Name | Level | Ingredients |
 |:------------|:-----:|:-----------:|
+| Cornmeal    |   1   |     1       |
+| Rolled Oats |   1   |     1       |
+| Syrup       |   1   |     1       |
 | Wheat Flour |   1   |     1       |
