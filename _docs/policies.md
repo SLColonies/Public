@@ -2,7 +2,7 @@
 title: Store Policies
 subtitle: Policies to help you in all situations
 author: temujin
-tags: [policies]
+tags: [featured]
 ---
 
 * TOC
