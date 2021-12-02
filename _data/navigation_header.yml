@@ -20,6 +20,14 @@ right:
   - title: Changelog
     url: /changelog-posts/
     button: primary-outline
+    
+  - title: Bug Report
+    url: https://github.com/SLColonies/Public/issues/new/choose
+    button: warning
+    
+  - title: Discord
+    url: https://discord.gg/nAgxReW
+    button: success
 
   - title: Contact
     url: /contact/
