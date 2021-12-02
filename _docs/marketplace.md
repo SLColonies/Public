@@ -1,7 +1,7 @@
 ---
 title: Marketplace HUB
 author: temujin
-tags: [features]
+tags: [featured]
 ---
 The Marketplace HUB is a virtual marketplace where players can use their SL Colonies coin to buy and sell in a regions central market. Players can create buy & and sell orders and make requests for items not available in that location. Traders can also go around seeding various locations to create supply & demand.
 
