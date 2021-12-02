@@ -5,12 +5,12 @@
   icon: info
   doc: home
 
+- title: Member Sims
+  desc: Visit an SLColonies Land today!
+  icon: self improvement
+  url: https://meter.slcolonies.com
+
 - title: Join SLColonies
   desc: Wanting to use SLColonies for your game?
   icon: home
   doc: join
-
-- title: Customization
-  desc: Get help or tailor the theme to your specific requirements
-  icon: code
-  doc: customize
