@@ -3,8 +3,20 @@
 - title: Home
   url: /
 
-- title: Blog
-  url: /blog/
+- title: Docs
+  url: /docs/home/
+  
+- title: Our Team
+  url: /docs/team/
 
-- title: Contact
-  url: /contact/
+- title: Changelog
+  url: /changelog-posts/
+
+- title: Forums
+  url: https://forum.slcolonies.com
+
+- title: Discord
+  url: https://discord.gg/nAgxReW
+
+- title: Bug Report
+  url: https://github.com/SLColonies/Public/issues/new/choose
