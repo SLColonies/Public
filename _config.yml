@@ -48,19 +48,19 @@ authors:
 
 # Social icons displayed in footer
 social:
-    email:
+    email: slcolonies@gmail.com
     website:
-    facebook:       https://www.facebook.com/SLColonies
+    facebook: https://www.facebook.com/SLColonies
     flickr:
     dribbble:
-    github:
+    github: https://github.com/SLColonies/Public/issues/new/choose
     googleplus:
     instagram:      
     linkedin:
     pinterest:
     twitter:        
     vimeo:          
-    youtube:
+    youtube: https://www.youtube.com/channel/UCYQMiYePLrw3Kw4Slzgzevg
 
 # Share button
 share:
@@ -71,11 +71,11 @@ share:
 
 # Default footer image settings
 footer:
-    copyright:      All rights reserved. Copyright <a href="http://slcolonies.com">SL Colonies</a> 2019.
+    copyright:      All rights reserved. Copyright <a href="http://slcolonies.com">SL Colonies</a> 2019 - 2021
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
-    shortname:      # 1234
+    shortname: slcolonies
 
 # Google analytics code, get your code here https://www.google.com/analytics/
 google_analytics:
