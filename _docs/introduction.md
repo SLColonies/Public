@@ -2,7 +2,7 @@
 title: HUD & Meter Introduction
 subtitle: Introduction to the HUD & Meter
 author: temujin
-tags: [introduction]
+tags: [featured]
 ---
 
 Watch this video for a run down of the RP Hud & Meter. How to use its features and get a better understanding as a whole.
