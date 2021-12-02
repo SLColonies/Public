@@ -12,6 +12,10 @@ left:
     
   - title: Our Team
     url: /docs/team/
+    
+  - title: Bug Report
+    url: https://github.com/SLColonies/Public/issues/new/choose
+    button: warning
 
 # Navbar right menu navigation links
 
@@ -21,10 +25,10 @@ right:
     url: /changelog-posts/
     button: primary-outline
     
-  - title: Bug Report
-    url: https://github.com/SLColonies/Public/issues/new/choose
-    button: warning
-    
+  - title: Forums
+    url: https://forum.slcolonies.com
+    button: success
+
   - title: Discord
     url: https://discord.gg/nAgxReW
     button: success
