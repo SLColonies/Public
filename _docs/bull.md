@@ -5,7 +5,13 @@ tags: [features]
 ---
 The Dairy Cow is an animal farmers can have on land to gather milk from numerous times a day. The milk can be drank as is for health, energy, hunger and thirst stats, but can also be used in numerous baking recipes to make different dishes.
 
-The bull is just like a crafting station, however it is used to breed new dairy cows over a period of time. Players must be a Level 2 farmer to succeed in the breeding process.
+The bull is just like a crafting station, however it is used to breed new dairy cows over a period of time. Players must be a Level 2 farmer to succeed in the breeding process and must add the following ingredients:
+- 1 x Dairy Cow (*)
+- 2 x Barley
+- 2 x Corn
+- 1 x Wheat
+- 1 x Oats
+- 10 x Water
 
 **Price:** L$600<br>
 **Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Farmables-Bull/20142465)<br>
