@@ -15,13 +15,20 @@ The Butcher Table is a crafting station made for the Butcher profession of SL Co
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hq2_vf60ejA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| Recipe Name         | Level | Ingredients |
-|:--------------------|:-----:|:-----------:|
-| Beef Mince          |   0   |     1       |
-| Beef Porterhouse    |   1   |     1       |
-| Beef Portions (100) |   0   |     1       |
-| Beef Rib Eye        |   1   |     1       |
-| Beef Scotch Fillet  |   1   |     1       |
-| Beef Tenderloin     |   1   |     1       |
-| Beef Trim           |   0   |     1       |
-
+| Recipe Name           | Level | Ingredients |
+|:----------------------|:-----:|:-----------:|
+| Beef Mince            |   0   |     1       |
+| Beef Porterhouse      |   1   |     1       |
+| Beef Portions (100)   |   0   |     1       |
+| Beef Rib Eye          |   1   |     1       |
+| Beef Scotch Fillet    |   1   |     1       |
+| Beef Tenderloin       |   1   |     1       |
+| Chicken Breast        |   1   |     1       |
+| Chicken Drumstick     |   1   |     1       |
+| Chicken Feet          |   1   |     1       |
+| Chicken Mince         |   0   |     1       |
+| Chicken Portions (25) |   0   |     1       |
+| Chicken Tenders       |   1   |     1       |
+| Chicken Trim          |   0   |     1       |
+| Chicken Wing          |   1   |     1       |
+| Whole Chicken         |   1   |     1       |
