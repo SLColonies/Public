@@ -36,6 +36,7 @@
 - title: Farmables
   docs:
   - bull
+  - chickens
   - cow
   - field
 - title: Gatherables
