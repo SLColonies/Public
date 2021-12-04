@@ -24,3 +24,6 @@ All recipes are now player invented with a drag and drop system. If someone has 
 All finished products use the base stats from the raw ingredients put in, allowing you to make foods that increase and decrease any stats! 
 
 To discuss recipes, please go to our Discord or share them on our [wiki](https://github.com/SLColonies/Public/wiki).
+
+View the updated video on recipes here:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8jipNUR_Bk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
