@@ -29,6 +29,7 @@ This crafting station is for the smith profession and allows players to craft va
 | Metal Loop             |   0   |     1       |
 | Metal Scraps           |   0   |     1       |
 | Metal Sheet            |   0   |     1       |
+| Shears                 |   0   |     1       |
 | Sickle                 |   1   |     2       |
 | Silver Coin Bag        |   2   |     2       |
 | Slaughter Knife        |   1   |     2       |
