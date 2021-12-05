@@ -32,3 +32,16 @@ The Butcher Table is a crafting station made for the Butcher profession of SL Co
 | Chicken Trim          |   0   |     1       |
 | Chicken Wing          |   1   |     1       |
 | Whole Chicken         |   1   |     1       |
+| Lamb Breast           |   1   |     1       |
+| Lamb Chops            |   2   |     1       |
+| Lamb Cutlets          |   2   |     1       |
+| Lamb Foreshank        |   1   |     1       |
+| Lamb Hindshank        |   1   |     1       |
+| Lamb Leg              |   1   |     1       |
+| Lamb Loin             |   1   |     1       |
+| Lamb Mince            |   0   |     1       |
+| Lamb Portion          |   0   |     1       |
+| Lamb Rack             |   1   |     1       |
+| Lamb Rump             |   1   |     1       |
+| Lamb Shoulder         |   1   |     1       |
+| Lamb Trim             |   0   |     1       |
