@@ -17,4 +17,5 @@ The Fermentor is the second stage in the brewers manufacturing process. Generall
 | Recipe Name  | Level | Ingredients |
 |:-------------|:-----:|:-----------:|
 | Potato(ferm) |   1   |     2       |
+| Rice(ferm)   |   1   |     2       |
 | Wheat(ferm)  |   1   |     2       |
