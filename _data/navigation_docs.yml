@@ -32,6 +32,7 @@
   - marketplace
   - regionserver
   - rental
+  - storage
   - vendor
 - title: Farmables
   docs:
