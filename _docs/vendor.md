@@ -11,11 +11,11 @@ We also have the Multi Item Vendor which allows players to setup NPC Merchants o
 
 Players can choose to setup their vendor to sell/buy items with any SLC economy coin which they currently hold in their inventory.
 
-**__Single Item Vendor__**<br>
+__**Single Item Vendor**__<br>
 **Price:** L$50<br>
 **Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Essentials-Single-Item-Vendor/19610794)<br>
 
-**__Multi Item Vendor__**<br>
+__**Multi Item Vendor**__<br>
 **Price:** L$500<br>
 **Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Essentials-Multi-Item-Vendor/23071350)<br>
 
