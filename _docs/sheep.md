@@ -12,7 +12,7 @@ Sheep can also be slaughtered for their carcass. Doing so will be permanent howe
 
 **Required Tool:** Shears<br>
 **Durability Use:** 1<br>
-**Energy Use:** 5 Pot<br>
+**Energy Use:** 5<br>
 **Growth Speed:** 24 hrs
 
-{% include image.html img="sheep.png" alt="SLC Chickens" caption="SLC Chickens" %}
+{% include image.html img="sheep.png" alt="SLC Sheep" caption="SLC Sheep" %}
