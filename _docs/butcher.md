@@ -40,8 +40,26 @@ The Butcher Table is a crafting station made for the Butcher profession of SL Co
 | Lamb Leg              |   1   |     1       |
 | Lamb Loin             |   1   |     1       |
 | Lamb Mince            |   0   |     1       |
-| Lamb Portion          |   0   |     1       |
+| Lamb Portions (45)    |   0   |     1       |
 | Lamb Rack             |   1   |     1       |
 | Lamb Rump             |   1   |     1       |
 | Lamb Shoulder         |   1   |     1       |
 | Lamb Trim             |   0   |     1       |
+| Pork Arm Shoulder     |   1   |     1       |
+| Pork Blade            |   1   |     1       |
+| Pork Chops            |   2   |     1       |
+| Pork Ear              |   1   |     1       |
+| Pork Head             |   1   |     1       |
+| Pork Hock             |   1   |     1       |
+| Pork Jowl             |   1   |     1       |
+| Pork Leg              |   1   |     1       |
+| Pork Loin             |   1   |     1       |
+| Pork Mince            |   0   |     1       |
+| Pork Portions (104)   |   0   |     1       |
+| Pork Side             |   1   |     1       |
+| Pork Snout            |   1   |     1       |
+| Pork Spare Rib        |   1   |     1       |
+| Pork Spare Ribs       |   2   |     1       |
+| Pork Tenderloin       |   1   |     1       |
+| Pork Trim             |   0   |     1       |
+| Pork Trotter          |   1   |     1       |
