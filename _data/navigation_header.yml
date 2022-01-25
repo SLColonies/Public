@@ -29,16 +29,20 @@ right:
   - title: Bug Report
     url: https://github.com/SLColonies/Public/issues/new/choose
     button: warning
-    
-   - title: Patreon
+  
+  - title: Patreon
+    url: https://patreon.com/SLColonies
+    button: secondary    
+
+  - title: Patreon
     url: https://patreon.com/SLColonies
     button: secondary
     
-   - title: Patreon
+  - title: Patreon
     url: https://patreon.com/SLColonies
     button: default
    
-   - title: Patreon
+  - title: Patreon
     url: https://patreon.com/SLColonies
     button: danger
     
