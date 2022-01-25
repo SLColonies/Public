@@ -32,7 +32,15 @@ right:
     
    - title: Patreon
     url: https://patreon.com/SLColonies
-    button: primary
+    button: secondary
+    
+   - title: Patreon
+    url: https://patreon.com/SLColonies
+    button: default
+   
+   - title: Patreon
+    url: https://patreon.com/SLColonies
+    button: danger
     
   # - title: Changelog
   #   url: /contact/
