@@ -7,7 +7,6 @@ hero:
     image: clearlogo.png
     search: true
 ---
-<a href="https://www.patreon.com/bePatron?u=68435267" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 {% include team.html authors="temujin, drakkhis" title="Our Team" subtitle="Passionate about creating something truly unique for Second Life Roleplayers." %}
 
