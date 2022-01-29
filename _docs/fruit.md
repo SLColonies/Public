@@ -13,7 +13,7 @@ Lemon Tree: [Here](https://marketplace.secondlife.com/p/SLC-Gatherables-Lemon-Tr
 Lime Tree: [Here](https://marketplace.secondlife.com/p/SLC-Gatherables-Lime-Tree/23187760)<br>
 Orange Tree: [Here](https://marketplace.secondlife.com/p/SLC-Gatherables-Orange-Tree/23187729)<br>
 
-**Regeneration Rate:** 1 Hour per fruit<br>
+**Regeneration Rate:** 3 Hours per fruit<br>
 **Gather Amount:** 8<br>
 **Energy Consumption:** 2<br>
 **Required Tool:** Small Basket<br>
