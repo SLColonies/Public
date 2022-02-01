@@ -24,7 +24,7 @@ These crops are essentials for a thriving civilisation. Including wheat, potatoe
 
 **Maximum Harvests:** 10 (10 items)<br>
 
-**Growth Speed:** 1 day
+**Growth Speed:** 7 days
 
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M2m5A1kJBIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
