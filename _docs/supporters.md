@@ -8,5 +8,7 @@ Below is a list of our current Patron Supporters. If you would like to show your
 Enzo Minne<br>
 jeqoo<br>
 Radyn Martin
+SeanOakley
+Tina Raj
 
 Thank you everyone who supports us!
