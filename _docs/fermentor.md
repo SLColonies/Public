@@ -14,8 +14,11 @@ The Fermentor is the second stage in the brewers manufacturing process. Generall
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4uBKn_1LO2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| Recipe Name  | Level | Ingredients |
-|:-------------|:-----:|:-----------:|
-| Potato(ferm) |   1   |     2       |
-| Rice(ferm)   |   1   |     2       |
-| Wheat(ferm)  |   1   |     2       |
+| Recipe Name       | Level | Ingredients |
+|:------------------|:-----:|:-----------:|
+| Grape Juice(ferm) |   1   |     2       |
+| Potato(ferm)      |   1   |     2       |
+| Red Wine(ferm)    |   1   |     2       |
+| Rice(ferm)        |   1   |     2       |
+| Wheat(ferm)       |   1   |     2       |
+| White Wine(ferm)  |   1   |     2       |
