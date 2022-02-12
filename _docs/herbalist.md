@@ -29,5 +29,6 @@ Herbalists are the only profession which will also gain CXP while crafting using
 | Health 100      |   3   |     3       |
 | Light Antidote  |   1   |     2       |
 | Light Poison    |   2   |     2       |
+| Powdered Reishi |   0   |     0       |
 | Strong Antidote |   2   |     3       |
 | Strong Poison   |   3   |     3       |
