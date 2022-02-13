@@ -1,5 +1,5 @@
 ---
-title: Large Fields
+title: Fields
 author: temujin
 tags: [features]
 ---
@@ -7,6 +7,7 @@ The farming field is an essential for the Farmer profession and is in fact restr
 
 These crops are essentials for a thriving civilisation. Including wheat, potatoes, sugar cane and more. Some can be ground into Flour while others can be crushed and used as it. Many of the ingredients coming out of large fields are also used in the manufacturing of alchohols in the brewing profession.
 
+**Large:**
 **Price:** L$400<br>
 **Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Farmables-Large-Field/19387662)<br>
 
@@ -23,6 +24,46 @@ These crops are essentials for a thriving civilisation. Including wheat, potatoe
 **Harvesting Energy Use:** 10<br>
 
 **Maximum Harvests:** 10 (10 items)<br>
+
+**Growth Speed:** 7 days<br>
+
+**Medium:**
+**Price:** L$200<br>
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Farmables-Medium-Field/23254542)<br>
+
+**Ploughing Tool:** Plough<br>
+**Ploughing Energy Use:** 50<br>
+**Plough Durability Use:** 1<br>
+**Seeding Tool:** Seed Bag<br>
+**Seeding Energy Use:** 5<br>
+**Seed Bag Durability Use:** 1<br>
+**Watering Tool:** Clay Jar<br>
+**Watering Energy Use:** 5<br>
+**Clay Jar Durability Use:** 1<br>
+**Harvesting Tool:** Sickle<br>
+**Harvesting Energy Use:** 10<br>
+
+**Maximum Harvests:** 5<br>
+
+**Growth Speed:** 7 days<br>
+
+**Medium:**
+**Price:** L$100<br>
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Farmables-Small-Field/23254541)<br>
+
+**Ploughing Tool:** Hoe<br>
+**Ploughing Energy Use:** 50<br>
+**Plough Durability Use:** 1<br>
+**Seeding Tool:** Seed Bag<br>
+**Seeding Energy Use:** 5<br>
+**Seed Bag Durability Use:** 1<br>
+**Watering Tool:** Clay Jar<br>
+**Watering Energy Use:** 5<br>
+**Clay Jar Durability Use:** 1<br>
+**Harvesting Tool:** Sickle<br>
+**Harvesting Energy Use:** 10<br>
+
+**Maximum Harvests:** 1<br>
 
 **Growth Speed:** 7 days
 
