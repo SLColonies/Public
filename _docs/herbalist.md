@@ -20,15 +20,23 @@ Herbalists are the only profession which will also gain CXP while crafting using
 
 | Recipe Name     | Level | Ingredients |
 |:----------------|:-----:|:-----------:|
+| Black Dye       |   2   |     2       |
+| Blue Dye        |   2   |     2       |
 | Clotting Potion |   1   |     2       |
 | Death Potion    |   4   |     4       |
 | Energy Potion   |   2   |     3       |
+| Green Dye       |   2   |     2       |
 | Health 10       |   0   |     1       |
 | Health 25       |   1   |     2       |
 | Health 50       |   2   |     3       |
 | Health 100      |   3   |     3       |
 | Light Antidote  |   1   |     2       |
 | Light Poison    |   2   |     2       |
+| Orange Dye      |   2   |     2       |
+| Pink Dye        |   2   |     2       |
 | Powdered Reishi |   0   |     0       |
+| Red Dye         |   2   |     2       |
 | Strong Antidote |   2   |     3       |
 | Strong Poison   |   3   |     3       |
+| White Dye       |   2   |     2       |
+| Yellow Dye      |   2   |     2       |
