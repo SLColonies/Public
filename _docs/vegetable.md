@@ -1,5 +1,5 @@
 ---
-title: Large Vegetable Fields
+title: Vegetable Fields
 author: temujin
 tags: [features]
 ---
