@@ -45,12 +45,12 @@
   - coop
   - cow
   - field
-  - vegetable
-  - wetfield
+    - wetfield
   - pig
   - pigpen
   - ram
   - sheep
+  - vegetable
   - vineyard
 - title: Gatherables
   docs:
