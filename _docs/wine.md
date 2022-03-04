@@ -17,6 +17,8 @@ The wine press allows players to press various types of fruits into juices. In p
 | Recipe Name       | Level | Ingredients |
 |:------------------|:-----:|:-----------:|
 | Apple Juice       |   0   |     1       |
+| Blackberry Juice  |   0   |     1       |
+| Blueberry Juice   |   0   |     1       |
 | Grape Juice       |   0   |     1       |
 | Lemon Juice       |   0   |     1       |
 | Lime Juice        |   0   |     1       |
