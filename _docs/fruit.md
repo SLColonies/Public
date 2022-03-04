@@ -7,6 +7,8 @@ The fruit trees are a gatherable item which can be picked for fruit and eaten as
 
 **Price:** L$200<br>
 **Markeplace Listings**: <br>
+Blackberry Bush: [Here](https://marketplace.secondlife.com/p/SLC-Gatherables-Blackberry-Bush/23331876)<br>
+BlueBerry Bush: [Here](https://marketplace.secondlife.com/p/SLC-Gatherables-Blueberry-Bush/23331843)<br>
 Apple Tree: [Here](https://marketplace.secondlife.com/p/SLC-Gatherables-Apple-Tree/23187719)<br>
 Fig Tree: [Here](https://marketplace.secondlife.com/p/SLC-Gatherables-Fig-Tree/23187780)<br>
 Lemon Tree: [Here](https://marketplace.secondlife.com/p/SLC-Gatherables-Lemon-Tree/23187773)<br>
