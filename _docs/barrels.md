@@ -18,7 +18,7 @@ Placing your completed alcoholic concoctions into these barrels will allow you t
 |:---------------------|:-----:|:-----------:|
 | Red Wine Barrel(*)   |   2   |     3       |
 | Sake Barrel(*)       |   2   |     3       |
-| Vinegar              |   2   |     3       |
+| Vinegar              |   2   |     2       |
 | Vodka Barrel(*)      |   2   |     3       |
 | Whiskey Barrel(*)    |   2   |     3       |
 | White Wine Barrel(*) |   2   |     3       |
