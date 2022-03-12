@@ -5,6 +5,8 @@ tags: [featured]
 ---
 Below is a list of our current Patron Supporters. If you would like to show your support and have your names on this page, please considering becoming a Patron by visiting our [Patreon Page](https://www.patreon.com/SLColonies).
 
+Artemis Ronas<br>
+diggergabriel<br>
 Enzo Minne<br>
 jeqoo<br>
 Phils Streeter<br>
