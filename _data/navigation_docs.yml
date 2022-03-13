@@ -45,13 +45,14 @@
   - coop
   - cow
   - field
-    - wetfield
+  - herbgarden
   - pig
   - pigpen
   - ram
   - sheep
   - vegetable
   - vineyard
+  - wetfield
 - title: Gatherables
   docs:
   - clay
