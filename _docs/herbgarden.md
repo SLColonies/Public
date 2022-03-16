@@ -19,7 +19,7 @@ The herb gardens have 8 mini plots that allow players to plant various types of 
 **Harvesting Tool:** Small Basket<br>
 **Harvesting Energy Use:** 10<br>
 
-**Maximum Harvests:** 5 (per small plot - 40 total<br>
+**Maximum Harvests:** 5 per small plot ( 5 - 10 herbs per Harvest ) 25 - 50 Herbs per Grow Cycle for each plot<br>
 
 **Growth Speed:** 7 days
 
