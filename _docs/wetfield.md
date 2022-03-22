@@ -7,6 +7,7 @@ The wet farming field is an essential for the Farmer profession and is in fact r
 
 These crops are essentials for a thriving civilisation. Including rice, lotus, chestnut, watercress and more. Some can be ground into Flour while others can be crushed and used as is. Some of the ingredients coming out of large wet fields are also used in the manufacturing of alchohols in the brewing profession.
 
+**Large Wet Field**<br>
 **Price:** L$400<br>
 **Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Farmables-Large-Wet-Field/23032292)<br>
 
@@ -24,7 +25,47 @@ These crops are essentials for a thriving civilisation. Including rice, lotus, c
 
 **Minimum Harvests:** 10 (10 items) + Bonuses<br>
 
-**Growth Speed:** 1 day
+**Growth Speed:** 7 days<br>
+
+**Medium Wet Field**<br>
+**Price:** L$200<br>
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Farmables-Medium-Wet-Field/23396794)<br>
+
+**Ploughing Tool:** Plough<br>
+**Ploughing Energy Use:** 25<br>
+**Plough Durability Use:** 1<br>
+**Seeding Tool:** Seed Bag<br>
+**Seeding Energy Use:** 5<br>
+**Seed Bag Durability Use:** 1<br>
+**Watering Tool:** Clay Jar<br>
+**Watering Energy Use:** 5<br>
+**Clay Jar Durability Use:** 1<br>
+**Harvesting Tool:** Sickle<br>
+**Harvesting Energy Use:** 10<br>
+
+**Minimum Harvests:** 5 (5 items) + Bonuses<br>
+
+**Growth Speed:** 7 days<br>
+
+**Small Wet Field**<br>
+**Price:** L$100<br>
+**Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Farmables-Small-Wet-Field/23396800)<br>
+
+**Hoeing Tool:** Plough<br>
+**Hoeing Energy Use:** 10<br>
+**Hoe Durability Use:** 1<br>
+**Seeding Tool:** Seed Bag<br>
+**Seeding Energy Use:** 5<br>
+**Seed Bag Durability Use:** 1<br>
+**Watering Tool:** Clay Jar<br>
+**Watering Energy Use:** 5<br>
+**Clay Jar Durability Use:** 1<br>
+**Harvesting Tool:** Sickle<br>
+**Harvesting Energy Use:** 10<br>
+
+**Minimum Harvests:** 1 (1 items) + Bonuses<br>
+
+**Growth Speed:** 7 days
 
 ## Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ZZKbNBY3j8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
