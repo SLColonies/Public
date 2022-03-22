@@ -17,10 +17,6 @@ left:
 
 right:
 
-  - title: Changelog
-    url: /changelog-posts/
-    button: primary-outline
-    
   - title: Forums
     url: https://forum.slcolonies.com
     button: success
