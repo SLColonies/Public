@@ -9,9 +9,11 @@ Artemis Ronas<br>
 diggergabriel<br>
 Enzo Minne<br>
 jeqoo<br>
+Lilith<br>
 Phils Streeter<br>
 Radyn Martin<br>
 SeanOakley<br>
-Tina Raj
+Tina Raj<br?
+Vudon
 
 Thank you everyone who supports us!
