@@ -19,9 +19,6 @@ This also opens the game to lots of roleplay and trade potential. A new RPG sim 
 ## Base Skills
 All players have base skills regardless of profession chosen. This is to enable everyone to make the starting tools required to actually get started in the game if they are not available elsewhere. These are basically your base survival skills to get out and about and actually survive. Basically, any recipes regarded as Level 1, any profession can jump in and craft. You will not gain CXP from another profession's crafting table however.
 
-### Baker
-While everyone can do basic cooking, the baker will gain access to higher level recipes to do with cakes, pastries, cookies and sweets. Many of these recipes will also be decorative and rezzable as in-world items and still be edible with portions per meal.
-
 ### Brewer
 The brewer will have access to the pressing of juices, mashing of seeds, fermenting of wines and beers as well as distilling whiskies and various other spirits. They will also be able to further mature and age drinks produced before making them available to market at a higher level.
 
@@ -40,17 +37,17 @@ The enchanter works with various herbs, gems, stones, minerals, foods and more. 
 ### Farmer
 Farmer's are the staple of any surviving civilisation. Without the farmers, there would be no people. This is true even within SL Colonies. Farmers will focus on farming the various available fields of grains, plants, animals. They are also able to make basic items such as woven baskets, pottery. They are the only profession with access to the flour mills to produce the flours needed to generate foods used in baking and cooking.
 
-### Fighter
-Fighters are for those players who wish to be rewarded for going out there and killing monsters. They defer to a hunter in that their speciality is to enter 'dungeons' which are designed to be proceduraly generated. Basically, the player goes raiding on their own or with a couple friends. Inside these dungeons are monsters which can be killed and looted for rewards. Fighters earn CXP from combat and gain access to rare loot not obtainable anywhere else as well as rare crafting stations which load in these dungeons which cannot be found anywhere else either. Fighters get the opportunity to show off their wares from their long adventures!
-
 ### Herbalist
 The herbalist is one who enjoys collecting and mixing various herbs, fungi and other plants to create various concuctions and potions. From basic healing potions, buffing potions and even potions that can debuff and poison players, possibly even kill. Cooks can add certain potions to foods to create foods which could be poisoned, as an example.
 
-### Hunter
-There are many animals in the wild of SL Colonies regions. Some will run from you on appearing, which will require you to act quick to get their rare hides, whilst others will attack you on sight. Hunters gain CXP per kill in a hunt and with those skills will obtain rarer loot and be able to work with animal carcasses in various ways to obtain rarer materials for trade.
-
 ### Merchant
 The Merchant is the trader class. For players that enjoy travelling region to region in seek of trade, buying low and selling high in regions that are in deeper need. With access to marketplace HUBs, Merchants have the ability to place multiple buy and sell orders in markets. Merchant will earn CXP for successfully seeding certain regions and other means. The higher a merchants' CXP, the more open orders they have the ability to create.
+
+### Ranger
+There are many animals in the wild of SL Colonies regions. Some will run from you on appearing, which will require you to act quick to get their rare hides, whilst others will attack you on sight. Hunters gain CXP per kill in a hunt and with those skills will obtain rarer loot and be able to work with animal carcasses in various ways to obtain rarer materials for trade. Rangers are also the experts of the dungeons and monsters in the system. Rangers will create various leathers and parchments from animal skins used by other professions as well.
+
+### Seamstress
+The seamstress works with various wools and cottons, converting them into strings. They are able to create unlimited choices of coloured dyes to apply to their materials and then create patterns in the loom for rolls of materials. These materials are then made into different types of bedding, pillows, cushions and table clothes that can be applied to furniture owned by a player. They'll even be able to make various items of clothing that players can wear in-world!
 
 ### Smelter
 While anyone can mine, only the smelters have the knowledge of how to smelt the ores into their precious metals. Only the smelter knows which metals to combine together to infuse into even rarer metals. Smelters also have the ability to cast directly into certain moulds as well. Their metals are highly sought after by the many smithies spanning all lands of SLColonies.
