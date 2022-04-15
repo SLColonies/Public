@@ -66,6 +66,10 @@
   - silver
   - tree
   - water
+- title: Huntables
+  docs:
+  - deer
+  - wolf
 - title: Weapons
   docs:
   - engineering
