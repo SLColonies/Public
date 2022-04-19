@@ -3,7 +3,7 @@ title: Inventory
 author: temujin
 tags: [features]
 ---
-{% include image.html img="hud.png" alt="SLC HUD" caption="SL Colonies HUD" %}
+{% include image.html img="hudnew.png" alt="SLC HUD" caption="SL Colonies HUD" %}
 
 All items gathered and farmed within SL Colonies starts off initially as virtual items which are registered in a database as a player inventory. 
 
