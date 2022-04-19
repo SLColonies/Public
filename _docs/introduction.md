@@ -36,11 +36,34 @@ Here you will be able to get a proper glance at your other stats, like your hung
 You can slide the menu back away and hidden by clicking on your profile picture again and selecting **Hide Stats**.
 
 #### Go OOC
-Clicking this button will set your character to OOC, which will stop all other functions from working. You will not get hungry, thirsty or be damaged. You will not lose energy when flying 
+Clicking this button will set your character to OOC, which will stop all other functions from working. You will not get hungry, thirsty or be damaged. You will not lose energy when flying. You will also not be able to interact with any SLC items. No crafting, no gathering, no farming. 
+
+To turn RP mode back on, click on your profile picture and select RP On. There is a 60 second cooldown to go from OOC back to RP.
+
 #### Set Color
+In this section, you can change the colour of all the text displayed above your head on the meter. 
+
 #### Dark Mode
+This open will place a darker border around the whole hud. Making it easier to see in bright regions. 
+
 #### PVP
+This will toggle PvP mode on and off. 
+
+PvP stands for Player vs Player. By default, we are a PvE game (Player vs Environment). With Player vs Player mode switched on, two players with PvP on will be able to hurt each other with weapons. 
+
 #### Locations
+Every sim which has a region server is not only features on our [meter website](https://meter.slcolonies.com) but also featured in our HUD. By clicking on the locations button, you will be presented with a list of regions you can visit which use the SLColonies system.
+
 #### Help
+The help area will provide you with various links to help videos, documentation as well as to some of our social communities, like our forums and discord servers.
 
+### Inventory Bag
+On the top left of the HUD is a little inventory bag. This button will let you manage various areas of your virtual inventory.
+{% include image.html img="inventorymenu.png" alt="Inventory Menu" caption="Inventory Menu" %}
 
+#### View
+#### Give
+#### Trade
+#### Use
+#### Rez
+#### Get Weapon
