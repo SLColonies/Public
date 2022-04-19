@@ -29,6 +29,7 @@ The carpentry table is a crafting table made for the carpenter profession. It al
 | Oak Barrel           |   2   |     4       |
 | Plough               |   3   |     6       |
 | Simple Fishing Stick |   0   |     2       |
+| SLC Basic Bow        |   2   |     3       |
 | Small Wooden Handle  |   0   |     1       |
 | wire_sword_grip_1    |   2   |     3       |
 | wood_axe_handle_1    |   1   |     2       |
