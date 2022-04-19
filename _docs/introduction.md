@@ -126,4 +126,4 @@ This is the same if you grab yourself a new player HUD. You wont lose your tools
 ### Money Bag
 Finally we have the Money Bag. This is a simply button which works like the [give](https://slcolonies.com/docs/introduction/#give) in the [inventory bag](https://slcolonies.com/docs/introduction/#inventory-bag) section of the HUD. 
 
-When you click on it, it will scan the area for other avatars nearby. When you click on an avatar, you can then decide to send them the coin directly. This is not the same as [trade](https://slcolonies.com/docs/introduction/#trade), treat this as giving a gift of coin to the other player.
+When you click on it, it will scan the area for other avatars nearby. When you click on an avatar, you can then decide to send them any coin type directly, including any platinum you might own. This is not the same as [trade](https://slcolonies.com/docs/introduction/#trade), treat this as giving a gift of coin to the other player.
