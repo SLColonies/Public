@@ -21,14 +21,20 @@ Watch this video for a run down of the RP Hud & Meter. How to use its features a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1AARkfC2xGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Written Documentation
-
 ### Profile Picture
 Clicking on your profile picture, you will be greeted with a menu that looks like the below:
-{% include image.html img="profilemenu.png" alt="SLC HUD" caption="Profile Menu" %}
+{% include image.html img="profilemenu.png" alt="Profile Menu" caption="Profile Menu" %}
 
 Below are what each button will do.
 
 #### Show Stats
+Clicking on **Show Stats** will slide out some bars details your player [stats](https://slcolonies.com/docs/stats/) and [traits](https://slcolonies.com/docs/races/).
+{% include image.html img="hudsnew.png" alt="SLC HUD" caption="SL Colonies HUD" %}
+
+Here you will be able to get a proper glance at your other stats, like your hunger and thirst meters, how much CXP you've made through crafting and so forth. 
+
+You can slide the menu back away and hidden by clicking on your profile picture again.
+
 #### Go OOC
 #### Set Color
 #### Dark Mode
