@@ -3,7 +3,7 @@ title: Currency
 author: temujin
 tags: [features]
 ---
-{% include image.html img="hud.png" alt="SLC HUD" caption="SL Colonies HUD" %}
+{% include image.html img="hudnew.png" alt="SLC HUD" caption="SL Colonies HUD" %}
 
 The currency symbol on the player HUD allows you to trade coins with other nearby players. Simply select who you'd like to give coins to, followed by how many.
 
