@@ -12,6 +12,7 @@ There are 6 traits that each race has. Humans are the most balanced race, having
 | Lycan |  2  |  0  |  2  | -1  | -1  | -2  |   0  |
 
 ## The Stats
+{% include image.html img="hudnew.png" alt="SLC HUD" caption="SL Colonies HUD" %}
 Some traits will affect the meter directly, such as constitution will increase player total health and energy, while dexterity would affect total energy and fatigue.
 
 Other stats like strength might affect total damage per hit using hand held weapons while dexterity might also increase damage on ranged weapons.
