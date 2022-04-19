@@ -4,7 +4,7 @@ subtitle: Introduction to the HUD & Meter
 author: temujin
 tags: [featured]
 ---
-{% include image.html img="hudnew.png" alt="SLC HUD" caption="SL Colonies HUD" %}
+{% include image.html img="hudshrunk.png" alt="SLC HUD" caption="SL Colonies HUD" %}
 
 The SLColonies HUD has been designed with simplicity yet beauty in mind. Player's can control all of their characters needs through the HUD. 
 
@@ -20,10 +20,13 @@ The default display of the HUD just shows the player profile and the health and 
 Watch this video for a run down of the RP Hud & Meter. How to use its features and get a better understanding as a whole.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1AARkfC2xGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Profile Picture
+## The Written Documentation
 
+### Profile Picture
 Clicking on your profile picture, you will be greeted with a menu that looks like the below:
 {% include image.html img="profilemenu.png" alt="SLC HUD" caption="Profile Menu" %}
+
+Below are what each button will do.
 
 #### Show Stats
 #### Go OOC
