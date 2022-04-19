@@ -59,11 +59,11 @@ As you will see below, every stat is balanced so that the end result always give
 Player can upgrade their stats by visiting the player station in the main store and these are the stats which affect certain attributes:
 Each point or lack of a point thereof, gives the player +5 or -5 in the stat. IE: +1 strength will increase a players Hunger and blood by 5.
 
-Strength = +1 Hunger & +1 Blood
-Dexterity = +1 Energy & +1 Fatigue
-Constitution = +1 Health & +1 Energy % +1 Poison
-Intelligence = +1 Thirst & +1 Fatigue
-Wisdom = +1 Poison & +1 Blood
+Strength = +1 Hunger & +1 Blood<br>
+Dexterity = +1 Energy & +1 Fatigue<br>
+Constitution = +1 Health & +1 Energy % +1 Poison<br>
+Intelligence = +1 Thirst & +1 Fatigue<br>
+Wisdom = +1 Poison & +1 Blood<br>
 Charisma = +1 Hunger & +1 Thirst
 
 |Race       | Str | Dex | Con | Int | Wis | Char| Total|
