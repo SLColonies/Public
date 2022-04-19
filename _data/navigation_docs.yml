@@ -13,6 +13,14 @@
   - currency
   - inventory
   - tools
+- title: 101 Videos
+  docs:
+  - registration
+  - experience
+  - compass
+  - crafting
+  - gathering
+  - market
 - title: Craftables
   docs:
   - alchemy
