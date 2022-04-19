@@ -1,6 +1,9 @@
 - title: Home
   docs:
   - home
+  - join
+  - members
+  - supporters  
 - title: The Game
   docs:
   - introduction
@@ -79,8 +82,5 @@
 - title: Other
   docs:
   - beta
-  - join
-  - members
   - policies
-  - supporters
   - team
