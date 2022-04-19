@@ -24,4 +24,8 @@ One of our methods of really fixing the problem of supply & demand and focusing 
 
 Our main objective with SL Colonies is to build an RPG game which fixes the problem of broken trade and economy. Our goal is to create player driven economy, supply & demand between participating lands and player interaction in a grander scale where you are rewarded for participating.
 
-The in-game currency is not printed out of thin air. It must be mined, smelted, pressed into plates and minted into usable currency in order to be of any use. Only a certain profession has access to the coin crafting and this is controlled in order to manage inflation.
+The in-game currency is not printed out of thin air. It must be mined, smelted, pressed into plates and minted into usable currency in order to be of any use.
+
+## Join Us
+
+Come join us, come explore the many sims using our system and get a feel for how we work. Join our active communities and get to know other players of the system.
