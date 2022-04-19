@@ -26,4 +26,4 @@ Value of coins to L$ then is completely player driven again and will go up and d
 | 10000  |  100   |  1   |
 
 ## Player Made Coins
-Players have the ability to mint their own coin to create their own currency. You can read more about this by checking out out [Coin Mint](https://slcolonies.com/docs/coin/).
+Players have the ability to mint their own coin to create their own currency. You can read more about this by checking out our [Coin Mint](https://slcolonies.com/docs/coin/).
