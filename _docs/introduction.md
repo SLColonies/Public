@@ -29,13 +29,14 @@ Below are what each button will do.
 
 #### Show Stats
 Clicking on **Show Stats** will slide out some bars details your player [stats](https://slcolonies.com/docs/stats/) and [traits](https://slcolonies.com/docs/races/).
-{% include image.html img="hudsnew.png" alt="SLC HUD" caption="SL Colonies HUD" %}
+{% include image.html img="hudnew.png" alt="SLC HUD" caption="SL Colonies HUD" %}
 
 Here you will be able to get a proper glance at your other stats, like your hunger and thirst meters, how much CXP you've made through crafting and so forth. 
 
-You can slide the menu back away and hidden by clicking on your profile picture again.
+You can slide the menu back away and hidden by clicking on your profile picture again and selecting **Hide Stats**.
 
 #### Go OOC
+Clicking this button will set your character to OOC, which will stop all other functions from working. You will not get hungry, thirsty or be damaged. You will not lose energy when flying 
 #### Set Color
 #### Dark Mode
 #### PVP
