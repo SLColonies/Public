@@ -61,7 +61,7 @@ Each point or lack of a point thereof, gives the player +5 or -5 in the stat. IE
 
 Strength = +1 Hunger & +1 Blood<br>
 Dexterity = +1 Energy & +1 Fatigue<br>
-Constitution = +1 Health & +1 Energy % +1 Poison<br>
+Constitution = +1 Health & +1 Energy & +1 Poison<br>
 Intelligence = +1 Thirst & +1 Fatigue<br>
 Wisdom = +1 Poison & +1 Blood<br>
 Charisma = +1 Hunger & +1 Thirst
