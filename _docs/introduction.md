@@ -94,3 +94,32 @@ Draw: /5 bowdraw
 Sheath: /5 bowsheath
 
 Only one weapon can be drawn at a time.
+
+### Tool Icon
+The tool icon will bring up a menu to do with tools. Tools are required to gather, to farm and to craft on certain stations. Each time you do an action with a tool, one of its durability will be consumed until the tool is considered broken, at which stage you will need to grab another.
+
+For tools to work, you need to be on an SLC region with a region server active and the SL Colonies experience enabled on land.
+
+{% include image.html img="toolmenu.png" alt="Tool Menu" caption="Tool Menu" %}
+
+#### Use Tool
+On any of our [member sims](https://meter.slcolonies.com) with the SL Colonies Experience enabled, when you click on use tool, you'll be able to use any tool that has been loaded into your HUD. The tool will rez out of your HUD and attach to a point on your avatar. When you finish the task, you can click on [detach tool](https://slcolonies.com/docs/introduction/#detach-tool), or you can right-click your tool yourself and detach it. 
+
+A tool will automatically detach from your avatar when you teleport to a new region.
+
+#### Get Tool
+This button will show any tools which you own within your virtual inventory. If you have tools in your inventory and select one, it will tell a region server to send that tool to within the contents of your HUD. It will also delete one of the tools from your virtual inventory.
+
+#### Camp Fire
+Clicking on this button will rez out a camp fire which players can sit around. If you sit on a chair, another chair will rez out automatically, allowing others to join you.
+
+If you click the campfire in the center, you will be presented with a crafting menu, allowing you to cook and craft very basic things, such as cooked fish, and making a fishing rod.
+
+#### Detach Tool
+Clicking on Detach Tool will detach any of the tools you had attached to your avatar. It's a little easier than trying to manually detach it by zooming into your hands and so forth.
+
+#### Clean HUD
+This will delete all the tools contained inside the contents of your HUD. In-case you have a bugged tool or something isn't working right. Don't worry, the database tracks what durability you had left on your tool, so if you go to [get tool](https://slcolonies.com/docs/introduction/#get-tool) again, it won't consume one from your virtual inventory, and simply replace it with a new one and count durability from where it was.
+
+This is the same if you grab yourself a new player HUD. You wont lose your tools and hard work. The HUD will communicate with a region server and send you all the tools again as soon as you wear it. Ensure you are on an [SL Colonies](https://meter.slcolonies.com) land though.
+
