@@ -123,3 +123,7 @@ This will delete all the tools contained inside the contents of your HUD. In-cas
 
 This is the same if you grab yourself a new player HUD. You wont lose your tools and hard work. The HUD will communicate with a region server and send you all the tools again as soon as you wear it. Ensure you are on an [SL Colonies](https://meter.slcolonies.com) land though.
 
+### Money Bag
+Finally we have the Money Bag. This is a simply button which works like the [give](https://slcolonies.com/docs/introduction/#give) in the [inventory bag](https://slcolonies.com/docs/introduction/#inventory-bag) section of the HUD. 
+
+When you click on it, it will scan the area for other avatars nearby. When you click on an avatar, you can then decide to send them the coin directly. This is not the same as [trade](https://slcolonies.com/docs/introduction/#trade), treat this as giving a gift of coin to the other player.
