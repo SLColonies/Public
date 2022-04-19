@@ -5,7 +5,7 @@ tags: [features]
 ---
 {% include image.html img="hudnew.png" alt="SLC HUD" caption="SL Colonies HUD" %}
 
-All items gathered and farmed within SL Colonies starts off initially as virtual items which are registered in a database as a player inventory. 
+All items gathered and farmed within SL Colonies start off initially as virtual items which are registered in a database as a player inventory. 
 
 Clicking on the inventory icon gives the following buttons:
 
