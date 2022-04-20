@@ -51,6 +51,11 @@ This crafting station is for the smith profession and allows players to craft va
 | iron_knife_pommel_3    |   2   |     2       |
 | iron_knife_pommel_4    |   2   |     2       |
 | iron_knife_pommel_5    |   2   |     2       |
+| silver_sword_blade_1   |   4   |     2       |
+| silver_sword_blade_2   |   4   |     2       |
+| silver_sword_blade_3   |   4   |     2       |
+| silver_sword_blade_4   |   4   |     2       |
+| silver_sword_blade_5   |   5   |     2       |
 | steel_axe_adornment_1  |   3   |     2       |
 | steel_axe_adornment_2  |   3   |     2       |
 | steel_axe_adornment_3  |   3   |     2       |
