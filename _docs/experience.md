@@ -11,4 +11,6 @@ While you are a Level 0 player, you can change professions for free. Once you ha
 
 In this video, we show you how you can choose your profession (or role) when you are ready, as well as briefly show you how you change your race or increase your traits.
 
+The experience station is found in the SLColonies Main Store.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/piID1h6mOxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
