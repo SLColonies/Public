@@ -7,6 +7,8 @@ Crafting in SLColonies allows you to create an unlimited array of items in the s
 
 Our basic stations use the default menu that pops up when you click on items. You'll be able to select craft, or to use a recipe if you have already learned it and it has been stored in your recipe book. Simply choose what ingredient to add, how much of that ingredient and then click on craft.
 
+Some crafting stations require you to be wearing tools. For example, our basket weaving station in the video below, requires that you are wearing a **billhook** which are manufactured by the smith on the [forge](https://slcolonies.com/docs/forge/). Other stations, like the forge, requires you to have a blacksmith hammer in hand and so forth.
+
 Watch this video to see how it works:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/04J12_9HuXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
