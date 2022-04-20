@@ -14,11 +14,12 @@ Clicking on the magnifying glass, you will see a portion of the compass highligh
 You will need to point your avatar in the direction of where you saw the highlighting (using the compass) and walk towards that direction. When you think you are closer, click on the magnifying glass again. Repeat the process until you find something.
 
 ### What the colours mean:
+
 | Colour | Distance   |
 |:------:|:----------:|
 | Red    | 50 to 100m |
-| Yellow |   6 to 50m |
-| Green  |    1 to 5m |
+| Yellow | 6 to 50m   |
+| Green  | 1 to 5m    |
 
 Watch this video for an example of how it works.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5jLcEAJ1UrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
