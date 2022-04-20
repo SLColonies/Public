@@ -16,7 +16,7 @@ You will need to point your avatar in the direction of where you saw the highlig
 ### What the colours mean:
 
 | Colour | Distance   |
-|:------:|:----------:|
+|:-------|-----------:|
 | Red    | 50 to 100m |
 | Yellow | 6 to 50m   |
 | Green  | 1 to 5m    |
