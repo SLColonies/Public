@@ -7,6 +7,7 @@ Below is a list of our current Patron Supporters. If you would like to show your
 
 Artemis Ronas<br>
 Beowolf Foxtrot<br>
+Dante<br>
 diggergabriel<br>
 Doogz<br>
 Elisefarmgirl<br>
