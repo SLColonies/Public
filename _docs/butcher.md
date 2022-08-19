@@ -63,3 +63,13 @@ The Butcher Table is a crafting station made for the Butcher profession of SL Co
 | Pork Tenderloin       |   1   |     1       |
 | Pork Trim             |   0   |     1       |
 | Pork Trotter          |   1   |     1       |
+| Venison Heart         |   1   |     1       |
+| Venison Loin          |   1   |     1       |
+| Venison Mince         |   0   |     1       |
+| Venison Osso Buco     |   1   |     1       |
+| Venison Portion       |   0   |     1       |
+| Venison Rib           |   1   |     1       |
+| Venison Roast         |   1   |     1       |
+| Venison Steak         |   1   |     1       |
+| Venison Stew Meat     |   1   |     1       |
+| Venison Trim          |   0   |     1       |
