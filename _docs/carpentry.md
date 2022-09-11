@@ -17,7 +17,7 @@ The carpentry table is a crafting table made for the carpenter profession. It al
 
 | Recipe Name          | Level | Ingredients |
 |:---------------------|:-----:|:-----------:|
-| Arrow                |   1   |     2       |
+| Arrow                |   1   |     3       |
 | Arrow Barrel(*)      |   3   |     2       |
 | bone_knife_grip_1    |   1   |     2       |
 | bone_sword_grip_1    |   1   |     2       |
