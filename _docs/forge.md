@@ -22,6 +22,7 @@ This crafting station is for the smith profession and allows players to craft va
 | Butcher Knife          |   1   |     2       |
 | Carpenters Hammer      |   1   |     2       |
 | Copper Coin Bag        |   1   |     2       |
+| crude collar(*)        |   2   |     2       |
 | Gold Coin Bag          |   3   |     2       |
 | Hoe                    |   1   |     2       |
 | Iron Pickaxe           |   1   |     2       |
