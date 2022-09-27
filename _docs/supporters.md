@@ -8,7 +8,6 @@ Below is a list of our current Patron Supporters. If you would like to show your
 Abianna<br>
 Dante<br>
 diggergabriel<br>
-Doogz<br>
 Elisefarmgirl<br>
 Enzo Minne<br>
 jeqoo<br>
