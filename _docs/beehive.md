@@ -1,5 +1,5 @@
 ---
-title: Beehice
+title: Beehive
 author: temujin
 tags: [features]
 ---
