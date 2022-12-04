@@ -10,14 +10,12 @@ axel.naxos<br>
 diggergabriel<br>
 dominusaetius<br>
 elisefarmgirl<br>
-enzodexter<br>
 jeqoo<br>
 lalanna26<br>
 lillith.mersereau<br>
 maleficentfaery69<br>
 markus.graymark<br>
 phils.streeter<br>
-radein.core<br>
 tina22.carter<br>
 vvivaldii<br>
 vudon<br>
