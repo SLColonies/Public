@@ -20,6 +20,7 @@ The basketweaving station allows all players to use their gathered reed leaves t
 | Recipe Name  | Level | Ingredients |
 |:-------------|:-----:|:-----------:|
 | Empty Pouch  |   1   |     1       |
+| Flax Fiber   |   1   |     1       |
 | Large Bag    |   1   |     1       |
 | Seed Bag     |   0   |     1       |
 | Small Basket |   1   |     1       |
