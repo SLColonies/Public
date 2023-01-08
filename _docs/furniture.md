@@ -10,7 +10,7 @@ These include beds that regenerate energy, fatigue, health and potentially other
 Any profession can use the furniture station, but the items needed to put together the furniture require a range of occupations, from Farmer, Ranger, Seamstress, Carpenter and more.
 
 **Price:** L$600<br>
-**Markeplace Listing**: [Click]([https://marketplace.secondlife.com/p/SLC-Craftables-Leather-Tanner/23579386](https://marketplace.secondlife.com/p/SLC-Craftables-Furniture-Station/24355710))<br>
+**Markeplace Listing**: [Click](https://marketplace.secondlife.com/p/SLC-Craftables-Furniture-Station/24355710)<br>
 
 **Tool Requirement:** Carpenters Hammer<br>
 **Tool Durability Use:** 1
