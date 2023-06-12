@@ -16,7 +16,7 @@ baseurl:            ""
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                "http://slcolonies.com"
+url:                "https://docs.slcolonies.com"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
 logo:               
