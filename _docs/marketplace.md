@@ -11,4 +11,4 @@ This is an essential for RPG sim owners who want to bring traffic in from other 
 **Markeplace Listing**: [Here](https://marketplace.secondlife.com/p/SLC-Marketplace-HUB/19597816)<br>
 
 ## Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TkGZntt0HK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FWzy7hG1AqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
