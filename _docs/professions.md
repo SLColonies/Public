@@ -31,9 +31,6 @@ The Carpenter will have access to many recipes. Probably one of the top two avai
 ### Cook
 While everyone will be able to cook basic recipes in cooking ovens within their homes, only cooks will have access to the more advanced recipes that you would expect to see in a restaurant or tavern. These recipes not only get to affect more stats when eating, but many of these higher level recipes will have in-world rezzable foods which can be rezzed in world for functions, parties and feasts.
 
-### Enchanter
-The enchanter works with various herbs, gems, stones, minerals, foods and more. They can learn to use their energies to place special effects on items which can also be further infused and crafted into other items. For example, an enchanter might be able to enchant a special gemstone to cause %crit chance or %fire damage. When this gemstone is infused into the hilt of a sword, that sword will be given those effects while hunting and raiding for monsters. Blades could be enchanted before being placed on a sword by weapon smiths.
-
 ### Farmer
 Farmer's are the staple of any surviving civilisation. Without the farmers, there would be no people. This is true even within SL Colonies. Farmers will focus on farming the various available fields of grains, plants, animals. They are also able to make basic items such as woven baskets, pottery. They are the only profession with access to the flour mills to produce the flours needed to generate foods used in baking and cooking.
 

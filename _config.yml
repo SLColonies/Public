@@ -5,8 +5,15 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              SL Colonies
-description:        Rule your own Empire - Live your own Life
+# RETITLED SO A SEARCHER CAN TELL THIS FROM THE CURRENT SITE.
+# jekyll-seo-tag builds every page title as "<page> | <site.title>", so this one
+# line retitles all 84 of them at once: "Professions | SL Colonies Docs".
+# Before this, four docs URLs and two slcolonies.com URLs came back for a brand
+# search under titles a reader could not tell apart.
+# `tagline` feeds the home page <title>; `description` feeds its meta description.
+title:              SL Colonies Docs
+tagline:            Older reference for the Second Life RPG
+description:        Older reference pages for SL Colonies, the medieval survival, farming and crafting RPG in Second Life. Some of it is out of date; slcolonies.com is current.
 lang:               en
 
 # Site subpath, e.g. /blog

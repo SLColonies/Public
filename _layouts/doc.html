@@ -27,6 +27,29 @@ layout: default
 
                     <h1 class="uk-article-title">{{ page.title | escape }}</h1>
 
+                    {%- comment -%}
+                      ARCHIVE NOTICE, on every one of the 84 doc pages.
+
+                      These pages are still indexed, still self-canonical, and
+                      still rank for the brand, so a searcher can land on one and
+                      read a stale fact believing it is current. Several are
+                      measurably wrong: recipe tables listing levels that moved,
+                      tool requirements that changed, and a page still describing
+                      the product as open beta.
+
+                      Deliberately NOT "this page has moved". Most of these have a
+                      replacement at slcolonies.com and some do not, and a notice
+                      that promises a destination it cannot name is worse than one
+                      that tells the truth. When a page's replacement exists it
+                      gets a 301 and this notice stops mattering.
+                    {%- endcomment -%}
+                    <div class="uk-alert uk-alert-warning uk-margin-top" style="padding:12px 16px;border-left:4px solid #d9a441;background:#fdf6e6;">
+                        <p style="margin:0;font-size:0.95rem;line-height:1.5;">
+                            These pages are older reference material and parts of it are out of date.
+                            The current SL Colonies site is <a href="https://slcolonies.com/">slcolonies.com</a>.
+                        </p>
+                    </div>
+
                     {% if page.subtitle %}<p class="uk-text-lead uk-text-muted">{{ page.subtitle }}</p>{% endif %}
 
                     <div class="uk-article-meta uk-margin-top uk-margin-medium-bottom uk-flex uk-flex-middle">
